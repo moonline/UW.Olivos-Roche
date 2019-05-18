@@ -73,9 +73,28 @@ Olivos Roche is an inofficial district of Olivos, part of the community Vicente 
 It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador Manuel Ugarte, the avenue Antonio Malaver and the avenue Maipu.
 
 
+.. list-table::
+   :class: table-borderless
+
+   * - .. figure:: maps/map-south-america-2.jpg
+          :width: 100%
+
+          Autonomous City Buenos Aires, Capital of Argentina [OSM]_
+
+     - .. figure:: maps/map-buenos-aires-2.jpg
+          :width: 100%
+
+          Vicente Lopez, Greater Buenos Aires, Argentina [OSM]_
+          
+          .. openstreetmap.org/relation/1224657
+
+
+.. figure:: maps/map-olivos-roche.jpg
+   :width: 100%
+
+   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires [OSM]_
 
 Olivos Roche has a size of around 120 blocks and 10'000 inhabitants. It's density reaches almost 100 people per hectare.
-
 
 
 Walking

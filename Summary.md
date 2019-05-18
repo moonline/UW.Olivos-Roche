@@ -1,4 +1,4 @@
-# Term Paper Summary
+# Paper Summary
 
 I would like to look at Olivos, the suburb where I live in greater Buenos Aires: https://www.openstreetmap.org/relation/1270158
 

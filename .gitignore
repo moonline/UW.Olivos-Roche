@@ -1,4 +1,6 @@
 *.pdf
 Links.md
 Draft.md
-*.ods
+*/*.ods
+*/*.odg
+raw
