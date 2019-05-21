@@ -62,11 +62,6 @@ Olivos Roche
     http://opencyclemap.org/?zoom=15&lat=-34.52226&lon=-58.49608&layers=B0000
     https://www.openstreetmap.org/relation/1270158#map=14/-34.5185/-58.5111&layers=C
 
-    https://es.wikipedia.org/wiki/Olivos
-
-    * ~97 inh/ha
-    * 75 mil hab
-    * Area 	7.7 km²
 
 
 Olivos Roche is an inofficial district of Olivos, part of the community Vicente Lopez, Greater Buenos Aires.
@@ -79,12 +74,12 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
    * - .. figure:: maps/map-south-america-2.jpg
           :width: 100%
 
-          Autonomous City Buenos Aires, Capital of Argentina [OSM]_
+          Autonomous City Buenos Aires, Capital of Argentina, South America (OpenStreetMap_, 2019, `1224652 <https://www.openstreetmap.org/relation/1224652#map=3/-35.96/-30.85>`_)
 
      - .. figure:: maps/map-buenos-aires-2.jpg
           :width: 100%
 
-          Vicente Lopez, Greater Buenos Aires, Argentina [OSM]_
+          Vicente Lopez, Greater Buenos Aires, Argentina (OpenStreetMap_, 2019, `-34.7427/-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
           
           .. openstreetmap.org/relation/1224657
 
@@ -92,9 +87,9 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
 .. figure:: maps/map-olivos-roche.jpg
    :width: 100%
 
-   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires [OSM]_
+   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OpenStreetMap_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
 
-Olivos Roche has a size of around 120 blocks and 10'000 inhabitants. It's density reaches almost 100 people per hectare.
+Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density might be around 90 people per hectare.
 
 
 
@@ -126,20 +121,18 @@ All blocks count with paved sidewalks. A part of the street corners also have cu
 
           Sidewalk parking at España St. / Buenos Aires St.
 
+   * - .. figure:: images/IMG_20190507_201004-2.jpg
+          :width: 100%
 
+          Street lighting at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of Panamericana.
+
+
+     - .. figure:: images/IMG_20190507_201029-2.jpg
+          :width: 100%
+
+          Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the avenue Maipú.
 
 All streets have street lighting and tree rows. This makes the sidewalk quite dark at some places.
-
-.. figure:: images/IMG_20190507_201004-2.jpg
-   :width: 50%
-
-   Street lighting at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of Panamericana.
-
-
-.. figure:: images/IMG_20190507_201029-2.jpg
-   :width: 50%
-
-   Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the avenue Maipú.
 
 
 
@@ -148,18 +141,43 @@ Cycling
 
 There are no bicycle lanes or paths in Olivos Roche. The avenues count with heavy traffic and are not comfortable to ride. Local streets count with speed bumps every blocks.
 
-.. figure:: images/IMG_20190517_085018-2.jpg
-   :width: 50%
 
-   Speed bump at Olaguer y Feliú St. / Juan B. Justo St.
+.. list-table::
+   :class: table-borderless
+
+   * 
+     - .. figure:: images/IMG_20190520_075106-malaver.jpg
+          :width: 100%
+
+          Antonio Malaver St. congested in the morning (1.75 driving lanes, 0.75 parking lanes)
+
+     - .. figure:: images/IMG_20190518_114849-bicycle-rack.jpg
+          :width: 100%
+
+          Bicycle rack in front of a backery in Carlos Villate St.
+
+   * - .. figure:: images/IMG_20190518_105453-normal-speed-bump.jpg
+          :width: 100%
+
+          Normal speed bump at Olaguer y Feliú St. / Villate Grande St.
+
+     - .. figure:: images/IMG_20190517_085018-speed-humps.jpg
+          :width: 100%
+
+          Speed humps at Olaguer y Feliú St. / Juan B. Justo St.
+
+* Bicycle can be taken on the train.
+* Congestion on avenues (no bicycle lanes).
+* Speed humps are a problem for bicycles
+
 
 
 Scooter
 -------
 
 Electric scooter networks did not yet arrive to Olivos.
-They arrived in Buenos Aires in March this year (https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136), but are not seen yet in the streets.
-Sidewalks end at every block and are mostly narrow and in many places broken. Not all corners count with curb ramps. So it's questionable, if scoots will be successfull in Olivos, respectively in Buenos Aires in general.
+They arrived in Buenos Aires in March this year (LaNacion_, 2019), but have not been seen yet in the streets.
+Sidewalks end at every block and are mostly narrow and in many places broken. Not all corners count with curb ramps. So it's questionable, if scooters will be successful in Olivos, respectively in Buenos Aires in general.
 
 
 Public transport
@@ -170,7 +188,7 @@ Olivos Roche counts with one railway line, a BRT line, express bus lines and sev
 .. figure:: maps/map-transit-lines.jpg
    :width: 100%
 
-   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (map: openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T)
+   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OpenStreetMap_, 2019, `-34.5159/-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
 
 
 Rail
@@ -198,6 +216,12 @@ The common bus lines are mostly driving on the big and small avenues, some also 
 Most of the stops do not have a shelter or a an extra stop sign. Often there is only a small sign at a near tree or light pole.
 Some stops count with shelters. They never have trash bin or lighting and lighted advertising panels did not arrive yet to Olivos. The station also do not count with any information about the route or the service frequencies.
 
+.. figure:: images/bus-stop-equipment.jpg
+   :width: 75%
+
+   Bus stop equipments for all 24 stops in Olivos Roche
+
+
 Panamericana:
 
 * 130
@@ -211,6 +235,11 @@ Panamericana:
    :width: 50%
 
    Panamericana Highway bus stop (Panamericana / Antonio Malaver)
+
+.. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
+   width: 50%;
+
+   Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
 
 
 Ugarte:
@@ -376,10 +405,12 @@ Projects that require long term funds and planning and are costly to implement.
 
 
 
-References
-==========
 
-.. [OSM] `OpenStreetMap <http://www.openstreetmap.org>`_
+.. rubric:: References
+
+.. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
+.. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
+
 
 
 
@@ -391,4 +422,9 @@ References
 .. https://www.google.com/url?q=http://rst2pdf.ralsina.me/handbook.html&sa=U&ved=2ahUKEwjYv5O0xp3iAhWNIbkGHTHfDsQQFjACegQICRAB&usg=AOvVaw0pmyqM_GAJ3grRMEAvyFkn
 .. https://www.google.com/url?q=http://docutils.sourceforge.net/docs/ref/rst/directives.html&sa=U&ved=2ahUKEwjYv5O0xp3iAhWNIbkGHTHfDsQQFjAAegQIARAB&usg=AOvVaw3TLIs5t0HK3e8xvA7hjJJH
 .. http://rst2pdf.ralsina.me/stories/quickref.html
+.. Citation:
+.. https://libguides.bc.edu/c.php?g=44057&p=279820
+.. https://pitt.libguides.com/citationhelp
+.. https://pitt.libguides.com/c.php?g=12108&p=64730
+.. https://guides.libraries.psu.edu/apaquickguide/intext
 
