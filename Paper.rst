@@ -12,13 +12,11 @@
    :align: center
    :alt: Tren Mitre stopping at Dr. Cetrangolo station (source: T.B.)
 
-============================
-Travel modes in Olivos Roche
-============================
 
--------------------------------------------------------------------
+Travel modes in Olivos Roche
+
+
 Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
--------------------------------------------------------------------
 
 
 .. raw:: pdf
@@ -50,6 +48,7 @@ Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
     ## What is laking?
     
     * Recommendations
+
 
 
 Olivos Roche
@@ -191,69 +190,31 @@ Olivos Roche counts with one railway line, a BRT line, express bus lines and sev
    Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OpenStreetMap_, 2019, `-34.5159/-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
 
 
-Rail
-~~~~
-
-The commuter rail Mirte connects the station Bartolomé Mitre with the main station Retiro in the city center. Near Olivos Roche it also stops at the station Dr. Cetrangolo.
-At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Terminal station of the Tren de la costa on the other side of the road, which takes passengers to Tigre in the north of Greater Buenos Aires.
-
-.. figure:: images/IMG_20190508_090101.jpg
-   :width: 50%
-
-   Mitre commuter rail stopping in Dr. Cetrangolo
-
-
-* Frequencies: 3 Trains per hour
-* Capacity: ? Seats + ? Standing
-* Accessibility: On-grade
-
-
+Local transit
+~~~~~~~~~~~~~
 
 Bus
-~~~
+...
 
 The common bus lines are mostly driving on the big and small avenues, some also pass through local streets.
 Most of the stops do not have a shelter or a an extra stop sign. Often there is only a small sign at a near tree or light pole.
-Some stops count with shelters. They never have trash bin or lighting and lighted advertising panels did not arrive yet to Olivos. The station also do not count with any information about the route or the service frequencies.
-
-.. figure:: images/bus-stop-equipment.jpg
-   :width: 75%
-
-   Bus stop equipments for all 24 stops in Olivos Roche
+Some stops count with garbage bins. Almost no stop has lighting and lighted advertising panels did not arrive yet to Olivos. 
+Also the stops also do not count with any information about the route or the service frequencies.s
 
 
-Panamericana:
+.. list-table::
+   :header-rows: 1
 
-* 130
-* 15
-* 60
-* 71
-* 21
-* 57
+   * - Gobernador Manuel Ugarte St.
+     - Carlos Villate St.
+     - Antonio Malaver St.
+   * - lines 333 and 434 from Panamericana in direction of Avenue Maipu
+     - lines 333 and 434 from Maipu in direction of Panamericana
+     - 
+   * -
+     - line 184 from station Dr. Cetrangolo / south-east in direction Panamericana
+     - line 184 from Panamericana in direction station Dr. Cetrangolo / south-east
 
-.. figure:: images/IMG_20190518_110555.jpg
-   :width: 50%
-
-   Panamericana Highway bus stop (Panamericana / Antonio Malaver)
-
-.. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
-   :width: 50%
-
-   Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
-
-
-Ugarte:
-
-* 333 and 434 from Panamericana in direction of Avenue Maipu.
-
-Carlos Villate:
-
-* 333 and 434 from Maipu in direction of Panamericana.
-* 184 from station Dr. Cetrangolo / south-east in direction Panamericana.
-
-Malaver:
-
-* 184 from Panamericana in direction station Dr. Cetrangolo / south-east.
 
 .. list-table::
    :class: table-borderless
@@ -278,28 +239,65 @@ Malaver:
 
           Bus shelter at night at Antonio Malaver St. / Fray Justo Sarmiento St.
 
+.. figure:: images/bus-stop-equipment.jpg
+   :width: 75%
 
-Express lines
-~~~~~~~~~~~~~
+   Bus stop equipments for all 24 stops in Olivos Roche
 
-There are several express lines on the Panamericana highway, which do not stop at all the stops and connect the passengers to the city and the north of Greater Buenos Aires:
+.. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
+   :width: 50%
 
-* 194
-* 60 (rapido)
+   Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
+
+
+
+Regional transit
+~~~~~~~~~~~~~~~~
+
+Mitre Rail
+..........
+
+The commuter rail Mirte connects the station Bartolomé Mitre with the main station Retiro in the city center. Near Olivos Roche it also stops at the station Dr. Cetrangolo.
+At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Terminal station of the Tren de la costa on the other side of the road, which takes passengers to Tigre in the north of Greater Buenos Aires.
+
+.. figure:: images/IMG_20190508_090101.jpg
+   :width: 50%
+
+   Mitre commuter rail stopping in Dr. Cetrangolo
+
+
+* Frequencies: 3 Trains per hour
+* Capacity: ? Seats + ? Standing
+* Accessibility: On-grade
+
+
+Panamericana bus & express lines
+................................
+
+There are several express lines on the Panamericana highway, which do not stop at all the stops and connect the passengers to the city and the north of Greater Buenos Aires.
+
+.. list-table::
+   :header-rows: 1
+
+   * - Common bus lines
+     - Express bus lines
+   * - 60, 15, 130, 194, 15, 21, 71, 57, 203, 365
+     - 60 rapido (stops only in Ugarte), 15 semi rapido, 194
+
+..
+   https://www.xcolectivo.com.ar/colectivo/recorridos.php?linea=60
+
+.. figure:: images/IMG_20190518_110555.jpg
+   :width: 50%
+
+   Panamericana Highway bus stop (Panamericana / Antonio Malaver)
+
 
 
 BRT
-~~~
+...
 
-On Maipu there is a Metrobus line (So is BRT called in Argentina) beginning at the corner Malaver/Maipu, heading to Plaza Italia in the city of Buenos Aires). Several bus lines serve them:
-
-* 152
-* 19
-* 203
-* 21
-* 59
-* 168
-* 71
+On Maipu there is a Metrobus line (So is BRT called in Argentina) beginning at the corner Malaver/Maipu, heading to Plaza Italia in the city of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
 
 .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
    :width: 50%
@@ -307,8 +305,8 @@ On Maipu there is a Metrobus line (So is BRT called in Argentina) beginning at t
    Bus 152 arriving at the Metrobus stop Deheza (source: https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte)
 
 
-Schedules
-~~~~~~~~~
+Schedules & frequencies
+~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Taxi and Radio Taxi
