@@ -1,4 +1,0 @@
-styles:
-    table-borderless:
-      commands: []
-         [INNERGRID, [ 0, 0 ], [ 0, 0 ], 0, black ]

@@ -1,6 +1,6 @@
 .. header:: Travel modes in Olivos Roche
 
-.. footer:: Page X / Y
+.. footer:: Page ###Page### / ###Total###
 
 .. section-numbering::
    :depth: 3
@@ -23,7 +23,7 @@ Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
 
 .. raw:: pdf
 
-   PageBreak
+   PageBreak oneColumn
 
 
 .. contents:: Index
@@ -237,7 +237,7 @@ Panamericana:
    Panamericana Highway bus stop (Panamericana / Antonio Malaver)
 
 .. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
-   width: 50%;
+   :width: 50%
 
    Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
 
