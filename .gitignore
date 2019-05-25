@@ -4,3 +4,4 @@ Draft.md
 **/*.ods
 **/*.odg
 raw
+.vscode

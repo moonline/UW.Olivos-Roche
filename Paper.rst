@@ -282,27 +282,30 @@ There are several express lines on the Panamericana highway, which do not stop a
    * - Common bus lines
      - Express bus lines
    * - 60, 15, 130, 194, 15, 21, 71, 57, 203, 365
-     - 60 rapido (stops only in Ugarte), 15 semi rapido, 194
+     - 60 rapido (stops only in Ugarte), 15 semi rapido, 21 rapido, 194
 
 ..
    https://www.xcolectivo.com.ar/colectivo/recorridos.php?linea=60
-
-.. figure:: images/IMG_20190518_110555.jpg
-   :width: 50%
-
-   Panamericana Highway bus stop (Panamericana / Antonio Malaver)
-
 
 
 BRT
 ...
 
-On Maipu there is a Metrobus line (So is BRT called in Argentina) beginning at the corner Malaver/Maipu, heading to Plaza Italia in the city of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
+On Maipu Avenue, there is a Metrobus line (So is BRT called in Argentina), beginning at the corner Malaver/Maipu, heading to Plaza Italia in the city of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
 
-.. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
-   :width: 50%
 
-   Bus 152 arriving at the Metrobus stop Deheza (source: https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte)
+.. list-table::
+   :class: table-borderless
+
+   * - .. figure:: images/IMG_20190518_110555.jpg
+          :width: 100%
+
+          Panamericana Highway bus stop (Panamericana / Antonio Malaver)
+
+     - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
+          :width: 100%
+
+          Bus 152 arriving at the Metrobus stop Deheza (BuenosAiresCiudad_, 2019)
 
 
 Schedules & frequencies
@@ -369,12 +372,61 @@ Low cost projects
 
 Projects with low cost but high impact, which could be implemented quickly.
 
-* Traffic law enforcement (sidewalk maintenance and size, tree size and clearance, street parking, velocity, ...)
-* Replacement of transit frequencies by schedules, publish transit schedules at stops and online
-* Bicycle lanes, load and onload zones, ... (Paint only)
-* Move (shelterless) bus stops for better multi-modal connections
-* Prioritized traffic lights for transit
+* Traffic law enforcement
+* Transit schedules
+* Spaces for disadvantaged modes (lane marking only)
+* Bus stop consolidation
+* Prioritized traffic lights
 * Prioritize road maintenance for transit corridors
+
+
+Traffic law enforcement
+~~~~~~~~~~~~~~~~~~~~~~~
+
+A significant enhancement of the sidewalk quality, walkability and traffic secutiry could be reached, enforcing already existing laws:
+
+* Force property owners to fix their sidewalks, to match standards and laws and maintain them appropiately (sidewalks are at the property owners responsibility).
+* Force the municipality to cut the trees to maintain a minimal clearance to prevent trees from covering street lamps (Tree cutting is at the municipalities responsibility, even when the trees are planted by the property owner).
+* Stop people from parking on the sidewalk, in driveways and in the second line, to allow pedestrians and bicycles to circulate without obstacles.
+* Enforce traffic laws regarding speed, traffic lights parking to increase traffic safety.
+
+
+Transit schedules
+~~~~~~~~~~~~~~~~~
+
+Replace transit frequencies by fixed schedules, implement buffer times and early-turning-points for delayed services, to allow transit users to plan their trips and connections.
+
+Publish schedules at the stops, in the vehicles itself and online, to give users easy access to them. Also publish them in common open-data formats under an open-data license, to allow plattforms and app-developers to integrate this services.
+
+
+Spaces for disadvantaged modes (lane marking only)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Create bicycle lanes, load and onload zones, bus lanes and stopping areas using lane marking.
+This allows to create reserved spaces for all modes, without big investments.
+Once the new measures proved themselves and the street needs to be maintained anyway, the lane marking can be replaced by traffic islands or new curbs.
+
+
+Bus stop consolidation
+~~~~~~~~~~~~~~~~~~~~~~
+
+Olivos Roche has around 25 local bus stops. Most of them have are 200m away from the next stop, but there are blocks, where stops are located every 100m.
+The density of the bus lines allows to put stops every 300m, without causing riders to walk much more. That way, the amount of stops could be reduced by around 30%, what had a positive impact on the average speed of the buses, but also allows to invest more per stop, and maintain them better.
+As only a few stops have shelters, moving them is a small investment.
+
+
+Prioritize road maintenance for transit corridors
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Prioritize road maintenance for roads with public transport lines, to make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
+
+
+Prioritized traffic
+~~~~~~~~~~~~~~~~~~~
+
+Replace traffic lights, which need to be replaced anyway, by new traffic lights with priority signal support, to recognize buses and create green waves for them. This allows more schedule stability and higher average speed.
+
+
 
 Medium cost projects
 --------------------
@@ -408,6 +460,7 @@ Projects that require long term funds and planning and are costly to implement.
 
 .. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
 .. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
+.. [BuenosAiresCiudad] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
 
 
 
