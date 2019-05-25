@@ -2,7 +2,7 @@
 	"pageTemplates": {
 		"cover": {
 			"frames": [
-				["-2cm", "-2cm", "21cm", "29.7cm"]
+				["-2cm", "0cm", "21cm", "100%"]
 			],
 	      		"showHeader" : false,
 	      		"showFooter" : false
@@ -16,6 +16,14 @@
 			"commands": [
 				["INNERGRID", [ 0, 0 ], [ 0, 0 ], 0, "black" ]
 			]
+		},
+		"document-title": {
+			"fontSize": 40,
+			"alignment": "center"
+		},
+		"document-subtitle": {
+			"fontSize": 24,
+			"alignment": "center"
 		}
 	}
 }

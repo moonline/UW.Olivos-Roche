@@ -7,16 +7,30 @@
 
 
 
-.. image:: images/IMG_20190508_090101.jpg
+|
+|
+
+.. container:: document-title
+
+   Olivos Roche | Travel modes
+
+|
+
+.. image:: images/cover.jpg
    :width: 100%
    :align: center
-   :alt: Tren Mitre stopping at Dr. Cetrangolo station (source: T.B.)
 
+|
 
-Travel modes in Olivos Roche
+.. container:: document-subtitle
 
+   Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
 
-Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
+|
+
+.. class:: center
+   
+   Tobias Blaser
 
 
 .. raw:: pdf
@@ -91,11 +105,16 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
 Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density might be around 90 people per hectare.
 
 
+.. raw:: pdf
+
+   PageBreak
+
 
 Walking
 -------
 
-All blocks count with paved sidewalks. A part of the street corners also have curb ramps. As the sidewalk is responsibility of the property owners, the are of different size, surface and quality.
+The streets and avenues are following a grid system. Most blocks are around 100m long.
+All blocks count with paved sidewalks. A part of the street corners also have curb ramps. As the sidewalk is responsibility of the property owners, the are of different size, surface and quality. Pedestrian crossings on avenues mostely count with curb ramps.
 
 .. list-table::
    :class: table-borderless
@@ -120,6 +139,14 @@ All blocks count with paved sidewalks. A part of the street corners also have cu
 
           Sidewalk parking at España St. / Buenos Aires St.
 
+Pedestrians always need to be attendant, where they put their feet, due to the changing sidewalk sizes, surface types, broken parts, wholes or animal dung.
+
+All streets have street lighting and tree rows. In general, the streets are well lighted. But at some places, the tree rows make the sidewalk quite dark, as the cover the street lamps.
+
+
+.. list-table::
+   :class: table-borderless
+
    * - .. figure:: images/IMG_20190507_201004-2.jpg
           :width: 100%
 
@@ -131,14 +158,14 @@ All blocks count with paved sidewalks. A part of the street corners also have cu
 
           Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the avenue Maipú.
 
-All streets have street lighting and tree rows. This makes the sidewalk quite dark at some places.
 
+There is not much activity on most of the streets, especially at early and late hours, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
 
 
 Cycling
 -------
 
-There are no bicycle lanes or paths in Olivos Roche. The avenues count with heavy traffic and are not comfortable to ride. Local streets count with speed bumps every blocks.
+There are no bicycle lanes or paths in Olivos Roche. The avenues count with heavy traffic and are not comfortable to ride. 
 
 
 .. list-table::
@@ -165,9 +192,14 @@ There are no bicycle lanes or paths in Olivos Roche. The avenues count with heav
 
           Speed humps at Olaguer y Feliú St. / Juan B. Justo St.
 
-* Bicycle can be taken on the train.
-* Congestion on avenues (no bicycle lanes).
-* Speed humps are a problem for bicycles
+Some avenues do not have sufficient wide lanes (e.g. 1 lane + 0.75 lane + 0.75 parking lane). This makes it dangerous to drive between the driving cars and parked cars.
+As some avenues are congested in peek hours, its even more difficult to drive a bicycle on them.
+
+Local streets on the other side, count with speed bumps every blocks and are interrupted at some places by the railway lanes.
+In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
+
+Bicycles can be taken on the train. The first and last coach contain bicycle racks to store them safely.
+On the bus it's not allowed to carry the bicycle.
 
 
 
@@ -352,15 +384,28 @@ Level of Service
 Walking
 -------
 
-In general, walking is comfortable and feasable in Olivos Roche, due to the all over existing paved sidewalks.
+In general, walking is well accessible and safe in Olivos Roche, due to the all over existing paved sidewalks.
 
 The grid system makes it easy no navigate and calculate distances, but causes 30% longer walking distances than a grid system with diagonal streets.
 
-Pedestrians always need to be attendant, where they put their feet, due to the changing sidewalk sizes, surface types, broken parts, wholes or animal dung.
-
 Walking with heavy or huge bags or caddy may be complicated, due to missing curb ramps or broken sidewalks.
 
-During the day people feel safe and walk much. In the night, dark sidewalks sections, caused by big trees, covering street lighting, not maintained or littered sidewalks, make people feel unsafe at some places. Also there is not much activity on most of the streets, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
+During the day people feel safe and walk much. In the night, dark sidewalks sections, caused by big trees, and not maintained or littered sidewalks, make people feel unsafe at some places. Missing activites on many roads contribute to that sense.
+
+.. figure:: images/Alfonzo-2005-Hierarchy-of-walking-needs.jpg
+   :width: 75%
+
+   Hierarchy of Walking needs within a Social-Ecological Framework (Alfonzo_, 2005, p. 820)
+
+Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs Accessibility and Safety are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable Walking. 
+
+
+Cycling
+-------
+
+The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. They are more or less ignored by the municipality, the focus lays completely on car traffic and walking. The only existing bicycle infrastructure are the bicycle racks on the train.
+
+In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted.
 
 
 
@@ -455,12 +500,15 @@ Projects that require long term funds and planning and are costly to implement.
 
 
 
+.. raw:: pdf
 
-.. rubric:: References
+   PageBreak
+   
 
 .. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
 .. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
 .. [BuenosAiresCiudad] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
+.. [Alfonzo] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
 
 
 
