@@ -622,6 +622,12 @@ Projects that require long term funds and planning and are costly to implement.
 
    PageBreak
    
+   
+:title: Olivos Roche | Travel modes
+:author: Tobias Blaser
+:description: Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
+:keywords: Public transport, cycling, scooters, TNC, taxi
+
 
 .. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
 .. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
