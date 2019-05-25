@@ -165,7 +165,8 @@ There is not much activity on most of the streets, especially at early and late 
 Cycling
 -------
 
-There are no bicycle lanes or paths in Olivos Roche. The avenues count with heavy traffic and are not comfortable to ride. 
+Olivos Roche does not yet count with public bicycle infrastructure.
+There are no bicycle lanes or paths, cyclists use the streets shared with cars. The avenues count with heavy traffic and are not comfortable to ride. 
 
 
 .. list-table::
@@ -198,13 +199,17 @@ As some avenues are congested in peek hours, its even more difficult to drive a 
 Local streets on the other side, count with speed bumps every blocks and are interrupted at some places by the railway lanes.
 In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
 
+In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted.
+
+There are no bicycle parking or monitored bicycle stations. Parking bicycles on the street for a longer time is not feasable, as they got stolen.
+
 Bicycles can be taken on the train. The first and last coach contain bicycle racks to store them safely.
 On the bus it's not allowed to carry the bicycle.
 
 
 
-Scooter
--------
+Scooters
+--------
 
 Electric scooter networks did not yet arrive to Olivos.
 They arrived in Buenos Aires in March this year (LaNacion_, 2019), but have not been seen yet in the streets.
@@ -240,12 +245,10 @@ Also the stops also do not count with any information about the route or the ser
    * - Gobernador Manuel Ugarte St.
      - Carlos Villate St.
      - Antonio Malaver St.
-   * - lines 333 and 434 from Panamericana in direction of Avenue Maipu
-     - lines 333 and 434 from Maipu in direction of Panamericana
-     - 
-   * -
-     - line 184 from station Dr. Cetrangolo / south-east in direction Panamericana
-     - line 184 from Panamericana in direction station Dr. Cetrangolo / south-east
+   * - * lines 333 and 434 from Panamericana in direction of Avenue Maipu
+     - * lines 333 and 434 from Maipu in direction of Panamericana
+       * line 184 from station Dr. Cetrangolo / south-east in direction Panamericana
+     - * line 184 from Panamericana in direction station Dr. Cetrangolo / south-east
 
 
 .. list-table::
@@ -260,7 +263,7 @@ Also the stops also do not count with any information about the route or the ser
           :width: 100%
 
           Bus stop at Antonio Malaver St. / General José María Paz St.
-
+   
    * - .. figure:: images/IMG_20190516_084727.jpg
           :width: 100%
 
@@ -271,15 +274,15 @@ Also the stops also do not count with any information about the route or the ser
 
           Bus shelter at night at Antonio Malaver St. / Fray Justo Sarmiento St.
 
-.. figure:: images/bus-stop-equipment.jpg
-   :width: 75%
+   * - .. figure:: images/bus-stop-equipment.jpg
+          :width: 100%
 
-   Bus stop equipments for all 24 stops in Olivos Roche
+          Bus stop equipments for all stops in Olivos Roche (local & express way)
 
-.. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
-   :width: 50%
+     - .. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
+          :width: 100%
 
-   Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
+          Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
 
 
 
@@ -292,14 +295,22 @@ Mitre Rail
 The commuter rail Mirte connects the station Bartolomé Mitre with the main station Retiro in the city center. Near Olivos Roche it also stops at the station Dr. Cetrangolo.
 At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Terminal station of the Tren de la costa on the other side of the road, which takes passengers to Tigre in the north of Greater Buenos Aires.
 
-.. figure:: images/IMG_20190508_090101.jpg
-   :width: 50%
+.. list-table::
+   :class: table-borderless
 
-   Mitre commuter rail stopping in Dr. Cetrangolo
+   * - .. figure:: images/IMG_20190508_090101.jpg
+          :width: 100%
 
+          Mitre commuter rail stopping in Dr. Cetrangolo
 
-* Frequencies: 3 Trains per hour
-* Capacity: ? Seats + ? Standing
+     - .. figure:: images/IMG_20180430_103155.jpg
+          :width: 100%
+
+          Mitre commuter rail train interier
+
+* Type: CSR (Unidad eléctrica múltiple CSR), 132m longitud
+* Frequencies: 3 Trains per hour, ~33 services / day and direction
+* Capacity: 408 seats
 * Accessibility: On-grade
 
 
@@ -312,9 +323,19 @@ There are several express lines on the Panamericana highway, which do not stop a
    :header-rows: 1
 
    * - Common bus lines
-     - Express bus lines
-   * - 60, 15, 130, 194, 15, 21, 71, 57, 203, 365
-     - 60 rapido (stops only in Ugarte), 15 semi rapido, 21 rapido, 194
+     - Express bus lines (stop only in Ugarte)
+   * - * 365
+       * 203
+       * 130
+       * 71
+       * 60
+       * 57
+       * 21
+       * 15
+     - * 194
+       * 60 semi rápido
+       * 21 semi rápido
+       * 15 semi rápido
 
 ..
    https://www.xcolectivo.com.ar/colectivo/recorridos.php?linea=60
@@ -339,43 +360,59 @@ On Maipu Avenue, there is a Metrobus line (So is BRT called in Argentina), begin
 
           Bus 152 arriving at the Metrobus stop Deheza (BuenosAiresCiudad_, 2019)
 
+   * - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_1551.jpg
+          :width: 100%
+
+          Metrobus at-grade boarding (BuenosAiresCiudad_, 2019)
+
+     - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2045.jpg
+          :width: 100%
+
+          Tactile paving at Metrobus stations (BuenosAiresCiudad_, 2019)
+
 
 Schedules & frequencies
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 
-Taxi and Radio Taxi
--------------------
+Taxi, Radio Taxi, Uber and Cabify
+---------------------------------
 
-There are several taxi companies in Olivos Roche. In front of the terminal station Mitre there is a public taxi stop.
-
-
-Uber and Cabify
----------------
-
-
-Accessibility
--------------
-
-BRT
-~~~
-
-Source: https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte
-
+There are several taxi companies in Olivos Roche. In front of the terminal station Mitre there is a public taxi stop. Dr. Cetrangolo station is too small, to count with a taxi stand.
 
 .. list-table::
-   :class: table-borderless
+   :header-rows: 1
+   :widths: 10 45 45
 
-   * - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_1551.jpg
-          :width: 100%
+   * -
+     - .. image:: images/icon-plus.png
+          :width: 0.75cm
+          :target: AHIcons_
+     - .. image:: images/icon-negative.png
+          :width: 0.75cm
+          :target: AHIcons_
+   * - Taxi / Radio taxi
+     - * Taxi: Available at stations and taxi stands
+       * Radio Taxi: Better availability than taxis
+     - * Expensive, in comparison transit
+       * Support only payment by cash
+       * Vehicles not always well maintained
+       * Strange / agressive driving Behavior
+   * - Uber
+     - * Cheaper than taxis
+       * High availability 
+     - * Trust in private drivers needed
+   * - Cabify
+     - * Professional drivers
+       * Cheaper than taxi
+     - * More expensive than Uber
 
-          Metrobus at-grade boarding
+Uber, Lyft and Cabify are highly available and used. Cabify counts with professional drivers and has agreements with companies for corporal rides of employees.
 
-     - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2045.jpg
-          :width: 100%
 
-          Tactile paving
+.. raw:: pdf
 
+   PageBreak
 
 
 Level of Service
@@ -383,6 +420,25 @@ Level of Service
 
 Walking
 -------
+
+.. list-table::
+   :header-rows: 1
+
+   * - .. image:: images/icon-smile-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+     - .. image:: images/icon-sad-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+   * - * Extensive sidewalk network
+       * Grid system, short access
+       * Curb ramps on avenues
+       * Well lighting
+     - * Broken sidewalks
+       * Littered sidewalks
+       * Missing curb ramps on local streets
+       * Dark sidewalk sections
+       * Few activity on the streets in the evening
 
 In general, walking is well accessible and safe in Olivos Roche, due to the all over existing paved sidewalks.
 
@@ -403,10 +459,71 @@ Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the ba
 Cycling
 -------
 
+.. list-table::
+   :header-rows: 1
+
+   * - .. image:: images/icon-smile-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+     - .. image:: images/icon-sad-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+   * - * Local streets allow secure cycling
+       * Bicycle rack on the train
+     - * Dangerous speed humps
+       * Cycling on avenues and in the night is dangerous
+       * No bicycle lanes/paths or parkings
+       * No monitored bicycle stations
+
 The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. They are more or less ignored by the municipality, the focus lays completely on car traffic and walking. The only existing bicycle infrastructure are the bicycle racks on the train.
 
-In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted.
 
+Scooters
+--------
+
+As scooters did not yet arrive to Olivos, there is not yet any thought about their integration into the public space and traffic flows.
+Most critiques for walking and cycling also apply for scooters. There is not infrastructure, where you can ride it and you can't ride it on the sidewalks.
+
+
+Public transport
+----------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - .. image:: images/icon-smile-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+     - .. image:: images/icon-sad-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+   * - * Railway, express bus and BRT lines
+       * Extensive local bus network
+       * High frequencies during the day
+     - * Buses and BRT lines have frequencies, no fixed schedules
+       * Bus stops are not well maintained
+       * Only a few bus stops count with shelter or lighting
+
+
+Taxi, Radio Taxi, Uber and Cabify
+---------------------------------
+
+.. list-table::
+   :header-rows: 1
+
+   * - .. image:: images/icon-smile-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+     - .. image:: images/icon-sad-face.png
+          :width: 0.75cm
+          :target: Roundicons_
+   * -
+     -
+
+
+.. raw:: pdf
+
+   PageBreak
 
 
 Improvement recommendations
@@ -447,7 +564,7 @@ Publish schedules at the stops, in the vehicles itself and online, to give users
 Spaces for disadvantaged modes (lane marking only)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Create bicycle lanes, load and onload zones, bus lanes and stopping areas using lane marking.
+Create bicycle lanes, bicycle boxes, load and onload zones, bus lanes and stopping areas using lane marking.
 This allows to create reserved spaces for all modes, without big investments.
 Once the new measures proved themselves and the street needs to be maintained anyway, the lane marking can be replaced by traffic islands or new curbs.
 
@@ -482,6 +599,7 @@ Medium cost projects
 * Replace at-grade rain water sewer at crossings by underground sewer
 * Street furniture
 * On-street bicycle parking
+* Bus bicycle racks
 
 
 High cost projects
@@ -494,7 +612,7 @@ Projects that require long term funds and planning and are costly to implement.
 * Replace traffic lights by bus-friendly roundabouts
 * Transit centers Cetrangolo, Mitre and Panamericana
 * Rail extension
-* Separated Bicycle lanes
+* Separated Bicycle lanes / bidirectional bicycle highways
 * Local road corner enhancements
 
 
@@ -509,6 +627,9 @@ Projects that require long term funds and planning and are costly to implement.
 .. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
 .. [BuenosAiresCiudad] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
 .. [Alfonzo] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
+.. [Roundicons] Roundicons. (2019). Smile and sad face icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/roundicons <https://www.flaticon.com/authors/roundicons>`_
+.. [AHIcons] Alfredo Hernandez. (2019). Plus and negative icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/alfredo-hernandez <https://www.flaticon.com/authors/alfredo-hernandez>`_
+
 
 
 
