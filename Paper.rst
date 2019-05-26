@@ -32,6 +32,8 @@
    
    Tobias Blaser
 
+   
+
 
 .. raw:: pdf
 
@@ -623,10 +625,6 @@ Projects that require long term funds and planning and are costly to implement.
    PageBreak
    
    
-:title: Olivos Roche | Travel modes
-:author: Tobias Blaser
-:description: Travel modes for disadvantaged people in Olivos Roche, Buenos Aires
-:keywords: Public transport, cycling, scooters, TNC, taxi
 
 
 .. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_

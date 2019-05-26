@@ -9,7 +9,7 @@ Transportation Choices for People with Transportation Disadvantages in Olivos Ro
 
 A look from transportation perspective at Olivos Roche, part of Olivos, a suburb in greater Buenos Aires: https://www.openstreetmap.org/relation/1270158
 
-Olivos is part of the community Vicente Lopez, has a size of almost 8km² and around 75'000 inhabitants. It counts with 3 railway lines, a BRT line, express bus lines and several local bus lines:
+Olivos Roche has a size of almost 90 blocks and around 10'000 inhabitants. It counts with a railway line, a BRT line, express bus lines and several local bus lines:
 
 http://openptmap.org/?zoom=14&lat=-34.52119&lon=-58.48788&layers=B0000TFT 
 https://www.openstreetmap.org/relation/1270158#map=14/-34.5185/-58.5111&layers=T
@@ -37,10 +37,12 @@ The paper focuses on the following transportation modes for non-drivers:
 
 ### Install dependencies
 
-```bash
-sudo apt-get install rst2pdf
+Rst2Pdf is used to compile the reStructuredText document to PDF, and exiftool is needed to add PDF meta data.
 
+```bash
+sudo apt-get install rst2pdf exiftool
 ```
+
 ### Build
 
 1. run `build.sh`
