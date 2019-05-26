@@ -542,6 +542,7 @@ Projects with low cost but high impact, which could be implemented quickly.
 * Bus stop consolidation
 * Prioritized traffic lights
 * Prioritize road maintenance for transit corridors
+* More commercial activity
 
 
 Traffic law enforcement
@@ -585,39 +586,156 @@ Prioritize road maintenance for transit corridors
 Prioritize road maintenance for roads with public transport lines, to make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
 
 
-Prioritized traffic
-~~~~~~~~~~~~~~~~~~~
+Prioritized traffic lights
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Replace traffic lights, which need to be replaced anyway, by new traffic lights with priority signal support, to recognize buses and create green waves for them. This allows more schedule stability and higher average speed.
+
+
+More commercial activity
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adjust regulations to ease the opening of cafes or small shops around transit stops.
 
 
 
 Medium cost projects
 --------------------
 
-* Enhance street lighting and lightened advertisements for more security
-* More cafes and shops around the plazas
-* Corner enhancements for transit turning corners
-* Replace at-grade rain water sewer at crossings by underground sewer
+* Better transit stop lighting
+* Corner enhancements for transit
+* Rain water sewer enhancements
 * Street furniture
 * On-street bicycle parking
 * Bus bicycle racks
 
 
+Better transit stop lighting
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Enhance the lighting at transit stop by installing proper lighting, additional street lamps or lighted advertisement panels. There exist already solar panel/battery sets which allow to power the stops with connecting them to the electric network.
+
+This would increase the safety of bus stops and provide revenue from the advertisement panels.
+
+
+Corner enhancements for transit
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Adjust corners, where buses are turning, to ease the turn: Raise the curb radius and add barrier areas, to prevent parking close to the corner. Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St.
+
+This would allow the bus to turn faster, reduce the case, where buses are blocked by parked cars, and enhance the crossing safety.
+
+
+Rain water sewer enhancements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rplace at-grade rain water sewer, crossing avenues and transit corridors, by underground sewer. In most of the places, the underground sewer is already there, only an additional drain on both sides of the crossing are needed. Examples: Carlos Villate St. / España St., Carlos Villate St. / Ayacucho St.
+
+This enhancement would increase the bus speed and ride comfort, but also the comfort for cyclists.
+
+
+Street furniture
+~~~~~~~~~~~~~~~~
+
+Street furniture could increase the activity on the streets and raise safety. They also may provide stops to rest for elder or disabled people.
+
+
+.. list-table::
+   :class: table-borderless
+
+   * - .. figure:: images/IMG_20190414_132142.jpg
+          :width: 100%
+
+          Attractive street furniture example from Auckland, New Zealand.
+
+     - .. figure:: images/IMG_20190420_100416.jpg
+          :width: 100%
+
+          Classic street furniture example from Wellington, New Zealand
+
+
+On-street bicycle parking
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
+
+The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
+
+
+Bus bicycle racks
+~~~~~~~~~~~~~~~~~
+
+Transport the bicycle on the bus, would allow people, to use their bicycle more extensive, as they could take the bus, when they feel unsafe in the evening, or are too tired to return cycling.
+In other countries, there are different systems used successfully: Front racks, rear racks or rack inside the bus, near the entrance.
+
+.. figure:: https://www.fahrradland-bw.de/uploads/tx_news/Fahrrad2g-2014-Eroeffnung-2.2.jpg
+   :width: 50%
+
+   Fahrrad2go-Project in Winnenden, Germany (NVBW_, 2014) 
+
+
 High cost projects
 ------------------
 
-Projects that require long term funds and planning and are costly to implement.
+Projects that require long term funds and planning and are costly to implement, but which also would have a significant impact.
 
-* Urban villages (local centers with shops, restaurants, corner stores, street cafes, parks, street furniture, etc) so people had more opportunities in walking distance.
+* Urban villages
 * Monitored bicycle parkings at railway stations and important bus stops
-* Replace traffic lights by bus-friendly roundabouts
-* Transit centers Cetrangolo, Mitre and Panamericana
+* Transit centers
 * Rail extension
-* Separated Bicycle lanes / bidirectional bicycle highways
+* Separated Bicycle lanes
 * Local road corner enhancements
 
 
+Urban villages
+~~~~~~~~~~~~~~
+
+(local centers with shops, restaurants, corner stores, street cafes, parks, street furniture, etc) so people had more opportunities in walking distance.
+
+
+Monitored bicycle parkings
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Monitored bicycle parkings at stations and transit hotspots would allow people to take the bicycle to transit, and park it safe. Even if most people have a transit line close, it's not always the line which brings them best to their destination. In that case, people may cycle to the desired line more far away.
+
+Recommended places for monitored bicycle parkings:
+
+* Dr. Cetrangolo train station
+* Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver
+* Carlos Villate St. / España St. (bus hotspot)
+
+
+Transit centers
+~~~~~~~~~~~~~~~
+
+Create transit centers with shops, services and activities to provide people everything for their daily needs and make that places more attractive and safe. Integrate transit centers with earlier mentioned bicycle parkings.
+
+Recommended places for monitored bicycle parkings:
+
+* Dr. Cetrangolo train station
+* Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver
+
+
+Rail extension
+~~~~~~~~~~~~~~
+
+The panamericana highway counts with high bus frequencies and rider volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
+
+The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CronicaFerroviaria_, 2017) published such a concept two years ago:
+
+.. figure:: https://4.bp.blogspot.com/-BBrtYchmY4A/WR9UTfyXn_I/AAAAAAABDKk/LdDMERBc3i854CCger3a5EKiUG_qsyDOACLcB/s1600/6b52bbcd-1ec1-444f-a1e3-2ada75c7980a-original.jpeg
+   :width: 50%
+
+   Elevated railway concept for the Panamericana highway (CronicaFerroviaria_, 2017)
+
+
+Separated Bicycle lanes
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Physically separated bicycle lanes or bidirectional bicycle highways could provide a high quality infrastructure to cyclists and make cycling much more attractive.
+
+The avenues in Olivos Roche count currently with 1.75 driving and 0.75 parking lane.
+This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity.
 
 
 .. raw:: pdf
@@ -625,15 +743,14 @@ Projects that require long term funds and planning and are costly to implement.
    PageBreak
    
    
-
-
 .. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
 .. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
 .. [BuenosAiresCiudad] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
 .. [Alfonzo] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
 .. [Roundicons] Roundicons. (2019). Smile and sad face icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/roundicons <https://www.flaticon.com/authors/roundicons>`_
 .. [AHIcons] Alfredo Hernandez. (2019). Plus and negative icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/alfredo-hernandez <https://www.flaticon.com/authors/alfredo-hernandez>`_
-
+.. [NVBW] Nahverkehrsgesellschaft Baden-Württemberg. (2014, August 13). Mit dem Fahrrad Bus fahren. Retrieved May 26, 2019 from `www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/ <https://www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/>`_
+.. [CronicaFerroviaria] Cronica Ferroviaria. (2017, May 19). Una solución ferroviaria para la autopista Panamericana. Retrieved May 26, 2019 from `wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html <http://wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html>`_
 
 
 
