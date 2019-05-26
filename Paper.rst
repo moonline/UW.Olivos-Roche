@@ -89,12 +89,12 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
    * - .. figure:: maps/map-south-america-2.jpg
           :width: 100%
 
-          Autonomous City Buenos Aires, Capital of Argentina, South America (OpenStreetMap_, 2019, `1224652 <https://www.openstreetmap.org/relation/1224652#map=3/-35.96/-30.85>`_)
+          Autonomous City Buenos Aires, Capital of Argentina, South America (OSM2019_, 2019, `1224652 <https://www.openstreetmap.org/relation/1224652#map=3/-35.96/-30.85>`_)
 
      - .. figure:: maps/map-buenos-aires-2.jpg
           :width: 100%
 
-          Vicente Lopez, Greater Buenos Aires, Argentina (OpenStreetMap_, 2019, `-34.7427/-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
+          Vicente Lopez, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427/-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
           
           .. openstreetmap.org/relation/1224657
 
@@ -102,7 +102,7 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
 .. figure:: maps/map-olivos-roche.jpg
    :width: 100%
 
-   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OpenStreetMap_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
+   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OSM2019_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
 
 Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density might be around 90 people per hectare.
 
@@ -214,7 +214,7 @@ Scooters
 --------
 
 Electric scooter networks did not yet arrive to Olivos.
-They arrived in Buenos Aires in March this year (LaNacion_, 2019), but have not been seen yet in the streets.
+They arrived in Buenos Aires in March this year (LN2019_, 2019), but have not been seen yet in the streets.
 Sidewalks end at every block and are mostly narrow and in many places broken. Not all corners count with curb ramps. So it's questionable, if scooters will be successful in Olivos, respectively in Buenos Aires in general.
 
 
@@ -226,7 +226,7 @@ Olivos Roche counts with one railway line, a BRT line, express bus lines and sev
 .. figure:: maps/map-transit-lines.jpg
    :width: 100%
 
-   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OpenStreetMap_, 2019, `-34.5159/-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
+   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OSM2019_, 2019, `-34.5159/-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
 
 
 Local transit
@@ -237,8 +237,8 @@ Bus
 
 The common bus lines are mostly driving on the big and small avenues, some also pass through local streets.
 Most of the stops do not have a shelter or a an extra stop sign. Often there is only a small sign at a near tree or light pole.
-Some stops count with garbage bins. Almost no stop has lighting and lighted advertising panels did not arrive yet to Olivos. 
-Also the stops also do not count with any information about the route or the service frequencies.s
+Some stops count with garbage bins. Almost no stop has lighting and lighted advertising panels did not arrive yet to Olivos. But some stops are well lighted by street lamps.
+Also the stops also do not count with any information about the route or the service frequencies.
 
 
 .. list-table::
@@ -285,7 +285,6 @@ Also the stops also do not count with any information about the route or the ser
           :width: 100%
 
           Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
-
 
 
 Regional transit
@@ -360,27 +359,59 @@ On Maipu Avenue, there is a Metrobus line (So is BRT called in Argentina), begin
      - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
           :width: 100%
 
-          Bus 152 arriving at the Metrobus stop Deheza (BuenosAiresCiudad_, 2019)
+          Bus 152 arriving at the Metrobus stop Deheza (BAC2019_, 2019)
 
    * - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_1551.jpg
           :width: 100%
 
-          Metrobus at-grade boarding (BuenosAiresCiudad_, 2019)
+          Metrobus at-grade boarding (BAC2019_, 2019)
 
      - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2045.jpg
           :width: 100%
 
-          Tactile paving at Metrobus stations (BuenosAiresCiudad_, 2019)
+          Tactile paving at Metrobus stations (BAC2019_, 2019)
 
 
-Schedules & frequencies
-~~~~~~~~~~~~~~~~~~~~~~~
+Frequencies
+~~~~~~~~~~~
+
+All buslines (common & express) have frequencies between 6 and one services per hour. But often buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
+
+
+Fares
+~~~~~
+
+In general, public transport is cheap in Buenos Aires, compared to other services. Prices raise stagged by the distance, but the first stage is quite long. Currently (26/05/19) the prices for the first stage are as follows:
+
+.. list-table::   
+   :header-rows: 1
+
+   * -
+     - Price (ARS)
+     - Price (USD by 26/05/19)
+   * - Mitre railway
+     - $18
+     - U$S 0.40
+   * - Bus
+     - $12.25
+     - U$S 0.25
+   * - Express bus (+25%)
+     - $22.5
+     - U$S 0.50
+   * - Express bus on highway (+75%)
+     - $31.5
+     - U$S 0.70
+     
+The median income in Argentina was ARS $16'293 per month (~USD $468.-) for the first term 2018 (PN2018_, 2018), what is about 10% of the median income for the United States and 9% for Switzerland (GPD2018_, 2018) at the same time. Compared to Switzerland, the fares in Buenos Aires are still more then 50% cheaper, in relation to the salary.
+
+
+
 
 
 Taxi, Radio Taxi, Uber and Cabify
 ---------------------------------
 
-There are several taxi companies in Olivos Roche. In front of the terminal station Mitre there is a public taxi stop. Dr. Cetrangolo station is too small, to count with a taxi stand.
+There are several taxi companies in Olivos Roche. In front of the terminal station Mitre there is a public taxi stand, but Dr. Cetrangolo station is too small, to count with a taxi stand.
 
 .. list-table::
    :header-rows: 1
@@ -389,10 +420,10 @@ There are several taxi companies in Olivos Roche. In front of the terminal stati
    * -
      - .. image:: images/icon-plus.png
           :width: 0.75cm
-          :target: AHIcons_
+          :target: AHI2019_
      - .. image:: images/icon-negative.png
           :width: 0.75cm
-          :target: AHIcons_
+          :target: AHI2019_
    * - Taxi / Radio taxi
      - * Taxi: Available at stations and taxi stands
        * Radio Taxi: Better availability than taxis
@@ -428,32 +459,34 @@ Walking
 
    * - .. image:: images/icon-smile-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
      - .. image:: images/icon-sad-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
    * - * Extensive sidewalk network
        * Grid system, short access
        * Curb ramps on avenues
        * Well lighting
-     - * Broken sidewalks
+       * Green spaces (trees and grassed areas)
+     - * Broken(not maintained sidewalks
        * Littered sidewalks
        * Missing curb ramps on local streets
        * Dark sidewalk sections
        * Few activity on the streets in the evening
+       * No benches/street furniture to rest and stay
 
 In general, walking is well accessible and safe in Olivos Roche, due to the all over existing paved sidewalks.
 
 The grid system makes it easy no navigate and calculate distances, but causes 30% longer walking distances than a grid system with diagonal streets.
 
-Walking with heavy or huge bags or caddy may be complicated, due to missing curb ramps or broken sidewalks.
+Walking with heavy or huge bags, buggy or caddy may be complicated, due to missing curb ramps or broken sidewalks. People walking a lot with buggies buy models with bigger wheels, but this models often are not completely foldable to carry by car or bus.
 
 During the day people feel safe and walk much. In the night, dark sidewalks sections, caused by big trees, and not maintained or littered sidewalks, make people feel unsafe at some places. Missing activites on many roads contribute to that sense.
 
 .. figure:: images/Alfonzo-2005-Hierarchy-of-walking-needs.jpg
    :width: 75%
 
-   Hierarchy of Walking needs within a Social-Ecological Framework (Alfonzo_, 2005, p. 820)
+   Hierarchy of Walking needs within a Social-Ecological Framework (AM2005_, 2005, p. 820)
 
 Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs Accessibility and Safety are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable Walking. 
 
@@ -466,10 +499,10 @@ Cycling
 
    * - .. image:: images/icon-smile-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
      - .. image:: images/icon-sad-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
    * - * Local streets allow secure cycling
        * Bicycle rack on the train
      - * Dangerous speed humps
@@ -495,16 +528,23 @@ Public transport
 
    * - .. image:: images/icon-smile-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
      - .. image:: images/icon-sad-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
    * - * Railway, express bus and BRT lines
        * Extensive local bus network
        * High frequencies during the day
      - * Buses and BRT lines have frequencies, no fixed schedules
        * Bus stops are not well maintained
        * Only a few bus stops count with shelter or lighting
+       * Crowded in peek hours
+
+The public transport offer is quite well in Olivos Roche, service are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
+
+The unreliable frequencies makes it complicated to plan a multi modal travel and people need to plan with sufficient margen, what makes multi modal travel unattractive, in comparison to car travel.
+
+As the fares are cheap, for many poor people it's the only way to travel, as they can not afford any motorized vehicle.
 
 
 Taxi, Radio Taxi, Uber and Cabify
@@ -515,12 +555,16 @@ Taxi, Radio Taxi, Uber and Cabify
 
    * - .. image:: images/icon-smile-face.png
           :width: 0.75cm
-          :target: Roundicons_
+          :target: RI2019_
      - .. image:: images/icon-sad-face.png
           :width: 0.75cm
-          :target: Roundicons_
-   * -
-     -
+          :target: RI2019_
+   * - * Good availability
+       * The only solution to get to some places without a car or late in the evening
+     - * Trust in drivers is not always given
+       * Not available in the slums
+
+Taxi and TNC services provide a good available service in Olivos Roche, but the drivers not always give the best impression. 
 
 
 .. raw:: pdf
@@ -671,7 +715,7 @@ In other countries, there are different systems used successfully: Front racks, 
 .. figure:: https://www.fahrradland-bw.de/uploads/tx_news/Fahrrad2g-2014-Eroeffnung-2.2.jpg
    :width: 50%
 
-   Fahrrad2go-Project in Winnenden, Germany (NVBW_, 2014) 
+   Fahrrad2go-Project in Winnenden, Germany (NVBW2014_, 2014) 
 
 
 High cost projects
@@ -684,7 +728,7 @@ Projects that require long term funds and planning and are costly to implement, 
 * Transit centers
 * Rail extension
 * Separated Bicycle lanes
-* Local road corner enhancements
+* Local street green corners
 
 
 Urban villages
@@ -721,12 +765,12 @@ Rail extension
 
 The panamericana highway counts with high bus frequencies and rider volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
 
-The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CronicaFerroviaria_, 2017) published such a concept two years ago:
+The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CF2017_, 2017) published such a concept two years ago:
 
 .. figure:: https://4.bp.blogspot.com/-BBrtYchmY4A/WR9UTfyXn_I/AAAAAAABDKk/LdDMERBc3i854CCger3a5EKiUG_qsyDOACLcB/s1600/6b52bbcd-1ec1-444f-a1e3-2ada75c7980a-original.jpeg
    :width: 50%
 
-   Elevated railway concept for the Panamericana highway (CronicaFerroviaria_, 2017)
+   Elevated railway concept for the Panamericana highway (CF2017_, 2017)
 
 
 Separated Bicycle lanes
@@ -734,8 +778,25 @@ Separated Bicycle lanes
 
 Physically separated bicycle lanes or bidirectional bicycle highways could provide a high quality infrastructure to cyclists and make cycling much more attractive.
 
-The avenues in Olivos Roche count currently with 1.75 driving and 0.75 parking lane.
+The avenues in Olivos Roche count currently with 1.75 driving and 0.75 parking lane. Often, it's not possible that two cars drive beside each others, so the real capacity of the road is around one lane.
 This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity.
+
+.. figure:: images/IMG_20190526_183612-bicycle-highway.jpg
+   :width: 75%
+
+   Current condition (top) and proposed bicycle highway (bottom) for avenues
+
+
+Local street green corners
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Local streets are mostely wide, count with speed bumps every blocks and street parking.
+There is a lot of space at the corners, which could be used to make green corners and place street furniture.
+
+.. figure:: images/IMG_20190526_183625-local-street-corners.jpg
+   :width: 75%
+
+   Current condition (left) and proposed green corners (right)
 
 
 .. raw:: pdf
@@ -743,15 +804,16 @@ This configuration could be changed to one driving lane, a parking/bus-stop/load
    PageBreak
    
    
-.. [OpenStreetMap] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
-.. [LaNacion] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
-.. [BuenosAiresCiudad] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
-.. [Alfonzo] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
-.. [Roundicons] Roundicons. (2019). Smile and sad face icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/roundicons <https://www.flaticon.com/authors/roundicons>`_
-.. [AHIcons] Alfredo Hernandez. (2019). Plus and negative icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/alfredo-hernandez <https://www.flaticon.com/authors/alfredo-hernandez>`_
-.. [NVBW] Nahverkehrsgesellschaft Baden-Württemberg. (2014, August 13). Mit dem Fahrrad Bus fahren. Retrieved May 26, 2019 from `www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/ <https://www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/>`_
-.. [CronicaFerroviaria] Cronica Ferroviaria. (2017, May 19). Una solución ferroviaria para la autopista Panamericana. Retrieved May 26, 2019 from `wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html <http://wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html>`_
-
+.. [OSM2019] OpenStreetMap Fundation. (2019). Retrieved May 10, 2019 from `www.openstreetmap.org <http://www.openstreetmap.org>`_
+.. [LN2019] La Nacion Newspaper. (2019, March 21). Los monopatines eléctricos llegan a Buenos Aires. Retrieved May 10, 2019 from `www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende -y-prepara-su-desembarco-local133x143-mm-nid2230136 <https://www.lanacion.com.ar/economia/la-bici-ya-fueel-monopatin-electrico-se-extiende-y-prepara-su-desembarco-local133x143-mm-nid2230136>`_
+.. [BAC2019] Buenos Aires Ciudad. (2019). Metrobus Norte. Retrieved May 24, 2019 from `www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte <https://www.buenosaires.gob.ar/movilidad/metrobus/metrobus-norte>`_
+.. [AM2005] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
+.. [RI2019] Roundicons. (2019). Smile and sad face icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/roundicons <https://www.flaticon.com/authors/roundicons>`_
+.. [AHI2019] Alfredo Hernandez. (2019). Plus and negative icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/alfredo-hernandez <https://www.flaticon.com/authors/alfredo-hernandez>`_
+.. [NVBW2014] Nahverkehrsgesellschaft Baden-Württemberg. (2014, August 13). Mit dem Fahrrad Bus fahren. Retrieved May 26, 2019 from `www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/ <https://www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/>`_
+.. [CF2017] Cronica Ferroviaria. (2017, May 19). Una solución ferroviaria para la autopista Panamericana. Retrieved May 26, 2019 from `wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html <http://wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html>`_
+.. [PN2018] Perfil Newspaper. (2018, November 11). Devaluación: el salario en Argentina ya es más bajo que en Brasil y Chile. Retrieved May 26, 2019 `www.perfil.com/noticias/economia/ devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml <from https://www.perfil.com/noticias/economia/devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml>`_
+.. [GPD2018] Google Public Data. (2018, July 6). Retrieved May 26, 2019 from `www.google.com/publicdata/explore? ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE <https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE>`_
 
 
 
