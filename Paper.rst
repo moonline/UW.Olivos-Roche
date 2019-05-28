@@ -94,7 +94,7 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
      - .. figure:: maps/map-buenos-aires-2.jpg
           :width: 100%
 
-          Vicente Lopez, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427/-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
+          Vicente Lopez, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427,-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
           
           .. openstreetmap.org/relation/1224657
 
@@ -198,7 +198,7 @@ There are no bicycle lanes or paths, cyclists use the streets shared with cars. 
 Some avenues do not have sufficient wide lanes (e.g. 1 lane + 0.75 lane + 0.75 parking lane). This makes it dangerous to drive between the driving cars and parked cars.
 As some avenues are congested in peek hours, its even more difficult to drive a bicycle on them.
 
-Local streets on the other side, count with speed bumps every blocks and are interrupted at some places by the railway lanes.
+Local streets on the other side, count with speed bumps every two blocks, are crossed by at-grade sewer canals and are interrupted at some places by the railway lanes.
 In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
 
 In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted.
@@ -226,7 +226,7 @@ Olivos Roche counts with one railway line, a BRT line, express bus lines and sev
 .. figure:: maps/map-transit-lines.jpg
    :width: 100%
 
-   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OSM2019_, 2019, `-34.5159/-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
+   Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OSM2019_, 2019, `-34.5159,-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
 
 
 Local transit
@@ -427,7 +427,7 @@ There are several taxi companies in Olivos Roche. In front of the terminal stati
    * - Taxi / Radio taxi
      - * Taxi: Available at stations and taxi stands
        * Radio Taxi: Better availability than taxis
-     - * Expensive, in comparison transit
+     - * Expensive, in comparison to transit
        * Support only payment by cash
        * Vehicles not always well maintained
        * Strange / agressive driving Behavior
@@ -440,7 +440,11 @@ There are several taxi companies in Olivos Roche. In front of the terminal stati
        * Cheaper than taxi
      - * More expensive than Uber
 
-Uber, Lyft and Cabify are highly available and used. Cabify counts with professional drivers and has agreements with companies for corporal rides of employees.
+Uber and Cabify are highly available and used. Cabify counts with professional drivers and has agreements with companies for corporal rides of employees.
+
+Late in the evening, when transit frequencies drop, people prefer to return by taxi or Uber and in the night, they are the only available travel mode.
+
+There are districts in Buenos Aires, which are not served by Taxis or Uber, for example the Slums.
 
 
 .. raw:: pdf
@@ -503,21 +507,24 @@ Cycling
      - .. image:: images/icon-sad-face.png
           :width: 0.75cm
           :target: RI2019_
-   * - * Local streets allow secure cycling
+   * - * Local streets allow safe cycling
        * Bicycle rack on the train
      - * Dangerous speed humps
        * Cycling on avenues and in the night is dangerous
+       * At-grade sewer canals
        * No bicycle lanes/paths or parkings
        * No monitored bicycle stations
 
-The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. They are more or less ignored by the municipality, the focus lays completely on car traffic and walking. The only existing bicycle infrastructure are the bicycle racks on the train.
+The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. That mode is almost ignored by the municipality. The only existing bicycle infrastructure are the bicycle racks on the train.
+
+The local streets allow safe cycling, but count with a lot of speed bumps and at-grade sewer canals.
 
 
 Scooters
 --------
 
 As scooters did not yet arrive to Olivos, there is not yet any thought about their integration into the public space and traffic flows.
-Most critiques for walking and cycling also apply for scooters. There is not infrastructure, where you can ride it and you can't ride it on the sidewalks.
+Most critiques for walking and cycling also apply for scooters. There is no dedicated infrastructure, where you can ride them and you can't ride them eighter on the sidewalks.
 
 
 Public transport
@@ -539,8 +546,9 @@ Public transport
        * Bus stops are not well maintained
        * Only a few bus stops count with shelter or lighting
        * Crowded in peek hours
+       * Frequencies drop in the evening
 
-The public transport offer is quite well in Olivos Roche, service are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
+The public transport offer is quite well in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
 
 The unreliable frequencies makes it complicated to plan a multi modal travel and people need to plan with sufficient margen, what makes multi modal travel unattractive, in comparison to car travel.
 
@@ -560,9 +568,9 @@ Taxi, Radio Taxi, Uber and Cabify
           :width: 0.75cm
           :target: RI2019_
    * - * Good availability
-       * The only solution to get to some places without a car or late in the evening
+       * The only solution to get to some places without a car and the only available transportation mode in the night
      - * Trust in drivers is not always given
-       * Not available in the slums
+       * Do not drive to all places (e.g. Slums)
 
 Taxi and TNC services provide a good available service in Olivos Roche, but the drivers not always give the best impression. 
 
@@ -585,7 +593,7 @@ Projects with low cost but high impact, which could be implemented quickly.
 * Spaces for disadvantaged modes (lane marking only)
 * Bus stop consolidation
 * Prioritized traffic lights
-* Prioritize road maintenance for transit corridors
+* Road maintenance prioritization for transit corridors
 * More commercial activity
 
 
@@ -594,52 +602,51 @@ Traffic law enforcement
 
 A significant enhancement of the sidewalk quality, walkability and traffic secutiry could be reached, enforcing already existing laws:
 
-* Force property owners to fix their sidewalks, to match standards and laws and maintain them appropiately (sidewalks are at the property owners responsibility).
-* Force the municipality to cut the trees to maintain a minimal clearance to prevent trees from covering street lamps (Tree cutting is at the municipalities responsibility, even when the trees are planted by the property owner).
-* Stop people from parking on the sidewalk, in driveways and in the second line, to allow pedestrians and bicycles to circulate without obstacles.
-* Enforce traffic laws regarding speed, traffic lights parking to increase traffic safety.
+* Forcing property owners to fix their sidewalks, to match standards and laws and maintain them appropiately (sidewalks are at the property owners responsibility).
+* Forcing the municipality to cut the trees regularly, to maintain a minimal clearance, to prevent trees from covering street lamps (Tree cutting is at the municipalities responsibility, even when the trees are planted by the property owner).
+* Stopping people from parking on the sidewalk, in driveways and in the second line, to allow pedestrians and bicycles to circulate without obstacles.
+* Applying traffic laws regarding speed, traffic lights and parking to increase traffic safety.
 
 
 Transit schedules
 ~~~~~~~~~~~~~~~~~
 
-Replace transit frequencies by fixed schedules, implement buffer times and early-turning-points for delayed services, to allow transit users to plan their trips and connections.
+A replacement of frequencies by fixed schedules for transit and implementing buffer times and early-turning-points for delayed services, could allow transit users to plan their trips and connections.
 
-Publish schedules at the stops, in the vehicles itself and online, to give users easy access to them. Also publish them in common open-data formats under an open-data license, to allow plattforms and app-developers to integrate this services.
+Published schedules at the stops, in the vehicles itself and online, could give users easy access to them. Publiching them in common open-data formats under an open-data license could support plattforms and app-developers to integrate this information in their services.
 
 
 Spaces for disadvantaged modes (lane marking only)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Create bicycle lanes, bicycle boxes, load and onload zones, bus lanes and stopping areas using lane marking.
-This allows to create reserved spaces for all modes, without big investments.
-Once the new measures proved themselves and the street needs to be maintained anyway, the lane marking can be replaced by traffic islands or new curbs.
+Creating bicycle lanes, bicycle boxes, load and onload zones, bus lanes and stopping areas, using lane marking, could create reserved spaces for all modes, without big investments.
+Once the new measures proved themselves and the street needs to be maintained anyway, the lane marking could be replaced by traffic islands or new curbs.
 
 
 Bus stop consolidation
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Olivos Roche has around 25 local bus stops. Most of them have are 200m away from the next stop, but there are blocks, where stops are located every 100m.
-The density of the bus lines allows to put stops every 300m, without causing riders to walk much more. That way, the amount of stops could be reduced by around 30%, what had a positive impact on the average speed of the buses, but also allows to invest more per stop, and maintain them better.
+Olivos Roche has around 25 local bus stops. Most of them are located only 200m away from the next stop, but there are blocks, where stops are located every 100m.
+The density of the bus lines allows to put stops every 300m, without causing riders to walk much more. That way, the amount of stops could be reduced by around 30%, what had a positive impact on the average speed of the buses, but also increased the investment per stop, to maintain them better.
 As only a few stops have shelters, moving them is a small investment.
 
 
-Prioritize road maintenance for transit corridors
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Road maintenance prioritization for transit corridors
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Prioritize road maintenance for roads with public transport lines, to make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
+Prioritizing road maintenance for roads with public transport lines, could make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
 
 
 Prioritized traffic lights
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Replace traffic lights, which need to be replaced anyway, by new traffic lights with priority signal support, to recognize buses and create green waves for them. This allows more schedule stability and higher average speed.
+Replacing traffic lights, which need to be replaced anyway, by new traffic lights with priority signal support, allowed to recognize buses and create green waves for them. This leaded to more schedule stability and higher average speed.
 
 
 More commercial activity
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Adjust regulations to ease the opening of cafes or small shops around transit stops.
+Adjust regulations to ease the opening of cafes or small shops around transit stops, could increase the activities around these places, and make them safer. It also may help to reduce the amount of trips people do, as they can by stuff for their basic needs on their way home.
 
 
 
@@ -657,25 +664,26 @@ Medium cost projects
 Better transit stop lighting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Enhance the lighting at transit stop by installing proper lighting, additional street lamps or lighted advertisement panels. There exist already solar panel/battery sets which allow to power the stops with connecting them to the electric network.
-
-This would increase the safety of bus stops and provide revenue from the advertisement panels.
+An enhancement of the lighting at transit stop by installing proper lighting, additional street lamps or lighted advertisement panels, could increase the safety of bus stops and provide revenue from the advertisement panels. There exist already solar panel/battery sets which allow to power the installations with connecting them to an electric network.
 
 
 Corner enhancements for transit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Adjust corners, where buses are turning, to ease the turn: Raise the curb radius and add barrier areas, to prevent parking close to the corner. Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St.
+Adjusting corners, where buses are turning, could increase the turning speed and reduce the amount of time, buses were stuck at corners. To achieve that, a bigger curb radius is needed and barrier areas, to prevent people parking close to the corner.
 
-This would allow the bus to turn faster, reduce the case, where buses are blocked by parked cars, and enhance the crossing safety.
+This could also enhance the crossing safety for other modes like bicycles or pedestrians.
+
+.. figure:: maps/corner-enhancements-map.jpg
+   :width: 75%
+   
+   Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St. (OSM2019_, 2019, `−34.5228,-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Rain water sewer enhancements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rplace at-grade rain water sewer, crossing avenues and transit corridors, by underground sewer. In most of the places, the underground sewer is already there, only an additional drain on both sides of the crossing are needed. Examples: Carlos Villate St. / España St., Carlos Villate St. / Ayacucho St.
-
-This enhancement would increase the bus speed and ride comfort, but also the comfort for cyclists.
+Replacing at-grade rain water sewer, crossing avenues and transit corridors, by underground sewer, could increase bus speed and ride comfort, but also the comfort for cyclists. In most of the places, the underground sewer is already there, only additional drains on both sides of the crossing are needed. Examples: Carlos Villate St. / España St., Carlos Villate St. / Ayacucho St.
 
 
 Street furniture
@@ -705,17 +713,24 @@ Other places in Olivos already count with explicit motorcycle and bicycle parkin
 
 The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
 
+Places, where bicycle parkings make sense:
+
+.. figure:: maps/olivos-roche-bicycle-parkings-map.jpg
+   :width: 75%
+
+   Corners with commercial activities, where bicycle parkings made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
+
 
 Bus bicycle racks
 ~~~~~~~~~~~~~~~~~
 
-Transport the bicycle on the bus, would allow people, to use their bicycle more extensive, as they could take the bus, when they feel unsafe in the evening, or are too tired to return cycling.
+Transport the bicycle on the bus, could allow people, to use their bicycle more extensive, as they could take the bus, when they feel unsafe in the evening, or are too tired to return cycling.
 In other countries, there are different systems used successfully: Front racks, rear racks or rack inside the bus, near the entrance.
 
 .. figure:: https://www.fahrradland-bw.de/uploads/tx_news/Fahrrad2g-2014-Eroeffnung-2.2.jpg
    :width: 50%
 
-   Fahrrad2go-Project in Winnenden, Germany (NVBW2014_, 2014) 
+   Fahrrad2go-Project in Winnenden, Germany, testing bicycle racks inside the bus (NVBW2014_, 2014) 
 
 
 High cost projects
@@ -723,7 +738,6 @@ High cost projects
 
 Projects that require long term funds and planning and are costly to implement, but which also would have a significant impact.
 
-* Urban villages
 * Monitored bicycle parkings at railway stations and important bus stops
 * Transit centers
 * Rail extension
@@ -731,22 +745,15 @@ Projects that require long term funds and planning and are costly to implement, 
 * Local street green corners
 
 
-Urban villages
-~~~~~~~~~~~~~~
-
-(local centers with shops, restaurants, corner stores, street cafes, parks, street furniture, etc) so people had more opportunities in walking distance.
-
-
 Monitored bicycle parkings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Monitored bicycle parkings at stations and transit hotspots would allow people to take the bicycle to transit, and park it safe. Even if most people have a transit line close, it's not always the line which brings them best to their destination. In that case, people may cycle to the desired line more far away.
 
-Recommended places for monitored bicycle parkings:
+.. figure:: maps/olivos-roche-monitored-bicycle-parkings-map.jpg
+   :width: 75%
 
-* Dr. Cetrangolo train station
-* Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver
-* Carlos Villate St. / España St. (bus hotspot)
+   Recommended places for monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Transit centers
@@ -754,10 +761,10 @@ Transit centers
 
 Create transit centers with shops, services and activities to provide people everything for their daily needs and make that places more attractive and safe. Integrate transit centers with earlier mentioned bicycle parkings.
 
-Recommended places for monitored bicycle parkings:
-
-* Dr. Cetrangolo train station
-* Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver
+.. figure:: maps/transit-centers-map.jpg
+   :width: 75%
+   
+   Recommended places for transit centers: Dr. Cetrangolo train station and the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver (OSM2019_, 2019, `−34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Rail extension
