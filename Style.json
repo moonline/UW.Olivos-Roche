@@ -2,10 +2,10 @@
 	"pageTemplates": {
 		"cover": {
 			"frames": [
-				["-2cm", "0cm", "21cm", "100%"]
+				["-2.2cm", "-2.7cm", "21.4cm", "29.7cm"]
 			],
-	      		"showHeader" : false,
-	      		"showFooter" : false
+			"showHeader" : false,
+			"showFooter" : false
 		}
 	},
 	"pageSetup": {
@@ -19,11 +19,30 @@
 		},
 		"document-title": {
 			"fontSize": 40,
-			"alignment": "center"
+			"alignment": "center",
+			"spaceBefore": 20,
+	  		"spaceAfter": 10
 		},
 		"document-subtitle": {
 			"fontSize": 24,
-			"alignment": "center"
+			"alignment": "center",
+			"spaceBefore": 10,
+	  		"spaceAfter": 30
+		},
+		"document-author": {
+			"fontSize": 14,
+			"alignment": "center",
+			"spaceBefore": 20,
+	  		"spaceAfter": 20
+		},
+		"bullet-list": {
+			"parent": "bodytext",
+			"spaceAfter": 10
+		},
+		"cover-image-ref": {
+			"alignment": "center",
+			"parent": "bodytext",
+			"spaceBefore": 350
 		}
 	}
 }
