@@ -362,7 +362,7 @@ On Maipu Avenue, there is a Metrobus line (BRT lime), beginning at the corner Ma
 Frequencies
 ~~~~~~~~~~~
 
-All buslines (common & express) have frequencies between 6 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
+All buslines (common & express) have frequencies between 12 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
 
 
 Fares
