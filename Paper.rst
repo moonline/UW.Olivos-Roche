@@ -743,7 +743,7 @@ Creating transit centers with shops, services and monitored bicycle parkings cou
 
 Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
 
-.. figure:: maps/olivos-roche-monitored-bicycle-parkings-map.jpg
+.. figure:: maps/transit-centers-map.jpg
    :width: 75%
 
    Recommended places for transit centers with monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
