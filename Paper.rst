@@ -80,7 +80,7 @@ Olivos Roche
 
 
 Olivos Roche is an inofficial district of Olivos, part of the community Vicente Lopez, Greater Buenos Aires.
-It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador Manuel Ugarte, the avenue Antonio Malaver and the avenue Maipu.
+It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernador Manuel Ugarte, the collector Antonio Malaver and Chacabuco St.
 
 
 .. list-table::
@@ -104,7 +104,7 @@ It is bounded by the highway Panamericana (Acceso Norte), the avenue Gobernador 
 
    Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OSM2019_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
 
-Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density might be around 90 people per hectare.
+Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density is around 90 people per hectare.
 
 
 .. raw:: pdf
@@ -115,8 +115,9 @@ Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's
 Walking
 -------
 
-The streets and avenues are following a grid system. Most blocks are around 100m long.
-All blocks count with paved sidewalks. A part of the street corners also have curb ramps. As the sidewalk is responsibility of the property owners, the are of different size, surface and quality. Pedestrian crossings on avenues mostely count with curb ramps.
+The streets and collectors are following a grid system.
+All blocks count with paved sidewalks. As their maintenance is responsibility of the property owners, they are of different sizes, surfaces and qualities. 
+Pedestrian crossings on collectors mostely count with curb ramps, some corners of local streets also count with them.
 
 .. list-table::
    :class: table-borderless
@@ -143,7 +144,7 @@ All blocks count with paved sidewalks. A part of the street corners also have cu
 
 Pedestrians always need to be attendant, where they put their feet, due to the changing sidewalk sizes, surface types, broken parts, wholes or animal dung.
 
-All streets have street lighting and tree rows. In general, the streets are well lighted. But at some places, the tree rows make the sidewalk quite dark, as the cover the street lamps.
+All streets have street lighting and tree rows. In general, the streets are well lighted. But at some places, the tree rows make the sidewalk quite dark, as they cover the street lamps.
 
 
 .. list-table::
@@ -161,14 +162,13 @@ All streets have street lighting and tree rows. In general, the streets are well
           Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the avenue Maipú.
 
 
-There is not much activity on most of the streets, especially at early and late hours, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
+There is not much activity on most of the streets at early and late hours, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
 
 
 Cycling
 -------
 
-Olivos Roche does not yet count with public bicycle infrastructure.
-There are no bicycle lanes or paths, cyclists use the streets shared with cars. The avenues count with heavy traffic and are not comfortable to ride. 
+Olivos Roche does not yet count with public bicycle infrastructure like bicycle lanes or paths. Cyclists share the streets with cars. The collectors count with a lot of traffic around peek hours and are not comfortable to ride. 
 
 
 .. list-table::
@@ -195,13 +195,12 @@ There are no bicycle lanes or paths, cyclists use the streets shared with cars. 
 
           Speed humps at Olaguer y Feliú St. / Juan B. Justo St.
 
-Some avenues do not have sufficient wide lanes (e.g. 1 lane + 0.75 lane + 0.75 parking lane). This makes it dangerous to drive between the driving cars and parked cars.
-As some avenues are congested in peek hours, its even more difficult to drive a bicycle on them.
+Some collectors do not have sufficient wide lanes (e.g. 1 lane + 0.75 lane + 0.75 parking lane). This makes it dangerous to drive between the driving cars and parked cars.
 
-Local streets on the other side, count with speed bumps every two blocks, are crossed by at-grade sewer canals and are interrupted at some places by the railway lanes.
+Local streets on the other side, count with speed bumps every two blocks, are crossed by at-grade sewer and are interrupted at some places by the railway line or the Panamericana highway.
 In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
 
-In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted.
+In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted on low activity streets.
 
 There are no bicycle parking or monitored bicycle stations. Parking bicycles on the street for a longer time is not feasable, as they got stolen.
 
@@ -235,10 +234,13 @@ Local transit
 Bus
 ...
 
-The common bus lines are mostly driving on the big and small avenues, some also pass through local streets.
-Most of the stops do not have a shelter or a an extra stop sign. Often there is only a small sign at a near tree or light pole.
-Some stops count with garbage bins. Almost no stop has lighting and lighted advertising panels did not arrive yet to Olivos. But some stops are well lighted by street lamps.
-Also the stops also do not count with any information about the route or the service frequencies.
+The common bus lines are mostly driving on the collectors, some also pass through local streets.
+Stops are marked with a sign at a close tree or light pole. Some stops have garbage bins or shelters.
+
+Almost no stop has lighting or lighted advertisement panels. But some stops are well lighted by street lamps.
+Also the stops do not count with any information about the route or the service frequencies.
+
+Buses often stop far away from the curb, entering with caddy or huge bags is complicated, even for low floor buses.
 
 
 .. list-table::
@@ -293,7 +295,7 @@ Regional transit
 Mitre Rail
 ..........
 
-The commuter rail Mirte connects the station Bartolomé Mitre with the main station Retiro in the city center. Near Olivos Roche it also stops at the station Dr. Cetrangolo.
+The commuter rail Mitre connects the station Bartolomé Mitre with the main station Retiro in the city center. Close to Olivos Roche it also stops at the station Dr. Cetrangolo.
 At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Terminal station of the Tren de la costa on the other side of the road, which takes passengers to Tigre in the north of Greater Buenos Aires.
 
 .. list-table::
@@ -310,9 +312,9 @@ At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Te
           Mitre commuter rail train interier
 
 * Type: CSR (Unidad eléctrica múltiple CSR), 132m longitud
-* Frequencies: 3 Trains per hour, ~33 services / day and direction
+* Frequencies: 2 Trains per hour, ~30 services / day and direction
 * Capacity: 408 seats
-* Accessibility: On-grade
+* Accessibility: At-grade
 
 
 Panamericana bus & express lines
@@ -345,7 +347,7 @@ There are several express lines on the Panamericana highway, which do not stop a
 BRT
 ...
 
-On Maipu Avenue, there is a Metrobus line (So is BRT called in Argentina), beginning at the corner Malaver/Maipu, heading to Plaza Italia in the city of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
+On Maipu Avenue, there is a Metrobus line (BRT lime), beginning at the corner Malaver/Maipu, heading to the city center of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
 
 
 .. list-table::
@@ -375,7 +377,7 @@ On Maipu Avenue, there is a Metrobus line (So is BRT called in Argentina), begin
 Frequencies
 ~~~~~~~~~~~
 
-All buslines (common & express) have frequencies between 6 and one services per hour. But often buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
+All buslines (common & express) have frequencies between 6 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
 
 
 Fares
@@ -402,9 +404,7 @@ In general, public transport is cheap in Buenos Aires, compared to other service
      - $31.5
      - U$S 0.70
      
-The median income in Argentina was ARS $16'293 per month (~USD $468.-) for the first term 2018 (PN2018_, 2018), what is about 10% of the median income for the United States and 9% for Switzerland (GPD2018_, 2018) at the same time. Compared to Switzerland, the fares in Buenos Aires are still more then 50% cheaper, in relation to the salary.
-
-
+The median income in Argentina was ARS $16'293 per month (~USD $468.-) for the first term 2018 (PN2018_, 2018), what is about 10% of the median income for the United States and 9% for Switzerland (GPD2018_, 2018) at the same time. Compared to Switzerland, the fares in Buenos Aires are still more then 50% cheaper, in relation to the median  salary.
 
 
 
@@ -428,9 +428,9 @@ There are several taxi companies in Olivos Roche. In front of the terminal stati
      - * Taxi: Available at stations and taxi stands
        * Radio Taxi: Better availability than taxis
      - * Expensive, in comparison to transit
-       * Support only payment by cash
-       * Vehicles not always well maintained
-       * Strange / agressive driving Behavior
+       * Support only cash payment
+       * Vehicles are not always well maintained
+       * Some drivers have strange / agressive driving behavior
    * - Uber
      - * Cheaper than taxis
        * High availability 
@@ -440,11 +440,11 @@ There are several taxi companies in Olivos Roche. In front of the terminal stati
        * Cheaper than taxi
      - * More expensive than Uber
 
-Uber and Cabify are highly available and used. Cabify counts with professional drivers and has agreements with companies for corporal rides of employees.
+Transportation Network Companies (TNCs) like Uber and Cabify are highly available and used. Cabify counts with professional drivers and has agreements with companies for corporal rides of employees.
 
-Late in the evening, when transit frequencies drop, people prefer to return by taxi or Uber and in the night, they are the only available travel mode.
+Late in the evening, when transit frequencies drop, people tend to return by taxi or Uber and in the night, they are the only available travel mode.
 
-There are districts in Buenos Aires, which are not served by Taxis or Uber, for example the Slums.
+There are districts in Buenos Aires, which are not served by Taxis or TNCs, for example the Slums.
 
 
 .. raw:: pdf
@@ -479,20 +479,19 @@ Walking
        * Few activity on the streets in the evening
        * No benches/street furniture to rest and stay
 
-In general, walking is well accessible and safe in Olivos Roche, due to the all over existing paved sidewalks.
+Walking is well accessible and safe in Olivos Roche, due to the all over existing paved sidewalks.
+The grid system makes it easy to navigate and calculate distances.
 
-The grid system makes it easy no navigate and calculate distances, but causes 30% longer walking distances than a grid system with diagonal streets.
+Walking with heavy or huge bags, buggy or caddy may be complicated, due to missing curb ramps or broken sidewalks.
 
-Walking with heavy or huge bags, buggy or caddy may be complicated, due to missing curb ramps or broken sidewalks. People walking a lot with buggies buy models with bigger wheels, but this models often are not completely foldable to carry by car or bus.
-
-During the day people feel safe and walk much. In the night, dark sidewalks sections, caused by big trees, and not maintained or littered sidewalks, make people feel unsafe at some places. Missing activites on many roads contribute to that sense.
+During the day people feel safe and walk much. In the night, dark sidewalks sections and not maintained or littered sidewalks, make people feel unsafe at some places. Missing activites on many roads contribute to that sense.
 
 .. figure:: images/Alfonzo-2005-Hierarchy-of-walking-needs.jpg
    :width: 75%
 
    Hierarchy of Walking needs within a Social-Ecological Framework (AM2005_, 2005, p. 820)
 
-Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs Accessibility and Safety are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable Walking. 
+Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs accessibility and safety are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable walking. 
 
 
 Cycling
@@ -515,16 +514,16 @@ Cycling
        * No bicycle lanes/paths or parkings
        * No monitored bicycle stations
 
-The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. That mode is almost ignored by the municipality. The only existing bicycle infrastructure are the bicycle racks on the train.
+The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. The only existing bicycle infrastructure are the bicycle racks on the train.
 
-The local streets allow safe cycling, but count with a lot of speed bumps and at-grade sewer canals.
+The local streets allow safe cycling, but count with a lot of speed bumps and at-grade sewers.
 
 
 Scooters
 --------
 
-As scooters did not yet arrive to Olivos, there is not yet any thought about their integration into the public space and traffic flows.
-Most critiques for walking and cycling also apply for scooters. There is no dedicated infrastructure, where you can ride them and you can't ride them eighter on the sidewalks.
+As scooters did not yet arrive to Olivos, there aren't yet experiences with them.
+It can be assumed, most critiques for walking and cycling also apply for scooters.
 
 
 Public transport
@@ -548,9 +547,9 @@ Public transport
        * Crowded in peek hours
        * Frequencies drop in the evening
 
-The public transport offer is quite well in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
+The public transport offer is good in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
 
-The unreliable frequencies makes it complicated to plan a multi modal travel and people need to plan with sufficient margen, what makes multi modal travel unattractive, in comparison to car travel.
+The unreliable frequencies make it complicated to plan a multi modal trip and people need to plan with sufficient margen, what makes it unattractive, in comparison to car or TNC trips.
 
 As the fares are cheap, for many poor people it's the only way to travel, as they can not afford any motorized vehicle.
 
@@ -572,7 +571,7 @@ Taxi, Radio Taxi, Uber and Cabify
      - * Trust in drivers is not always given
        * Do not drive to all places (e.g. Slums)
 
-Taxi and TNC services provide a good available service in Olivos Roche, but the drivers not always give the best impression. 
+Taxi and TNC services are highly available service in Olivos Roche, but the drivers do not always give the best impressions and its much more expensive than transit. 
 
 
 .. raw:: pdf
@@ -655,7 +654,6 @@ Medium cost projects
 
 * Better transit stop lighting
 * Corner enhancements for transit
-* Rain water sewer enhancements
 * Street furniture
 * On-street bicycle parking
 * Bus bicycle racks
@@ -678,12 +676,6 @@ This could also enhance the crossing safety for other modes like bicycles or ped
    :width: 75%
    
    Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St. (OSM2019_, 2019, `−34.5228,-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
-
-
-Rain water sewer enhancements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Replacing at-grade rain water sewer, crossing avenues and transit corridors, by underground sewer, could increase bus speed and ride comfort, but also the comfort for cyclists. In most of the places, the underground sewer is already there, only additional drains on both sides of the crossing are needed. Examples: Carlos Villate St. / España St., Carlos Villate St. / Ayacucho St.
 
 
 Street furniture
@@ -738,33 +730,23 @@ High cost projects
 
 Projects that require long term funds and planning and are costly to implement, but which also would have a significant impact.
 
-* Monitored bicycle parkings at railway stations and important bus stops
 * Transit centers
 * Rail extension
 * Separated Bicycle lanes
 * Local street green corners
 
 
-Monitored bicycle parkings
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Transit centers
+~~~~~~~~~~~~~~~
 
-Monitored bicycle parkings at stations and transit hotspots would allow people to take the bicycle to transit, and park it safe. Even if most people have a transit line close, it's not always the line which brings them best to their destination. In that case, people may cycle to the desired line more far away.
+Creating transit centers with shops, services and monitored bicycle parkings could provide people everything for their daily needs and make that places more attractive and safer.
+
+Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
 
 .. figure:: maps/olivos-roche-monitored-bicycle-parkings-map.jpg
    :width: 75%
 
-   Recommended places for monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
-
-
-Transit centers
-~~~~~~~~~~~~~~~
-
-Create transit centers with shops, services and activities to provide people everything for their daily needs and make that places more attractive and safe. Integrate transit centers with earlier mentioned bicycle parkings.
-
-.. figure:: maps/transit-centers-map.jpg
-   :width: 75%
-   
-   Recommended places for transit centers: Dr. Cetrangolo train station and the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver (OSM2019_, 2019, `−34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
+   Recommended places for transit centers with monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Rail extension
@@ -785,20 +767,20 @@ Separated Bicycle lanes
 
 Physically separated bicycle lanes or bidirectional bicycle highways could provide a high quality infrastructure to cyclists and make cycling much more attractive.
 
-The avenues in Olivos Roche count currently with 1.75 driving and 0.75 parking lane. Often, it's not possible that two cars drive beside each others, so the real capacity of the road is around one lane.
+The collectors in Olivos Roche count currently with 1.75 driving and 0.75 parking lane. Often, it's not possible that two cars drive beside each others, so the real capacity of the road is around one lane.
 This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity.
 
 .. figure:: images/IMG_20190526_183612-bicycle-highway.jpg
    :width: 75%
 
-   Current condition (top) and proposed bicycle highway (bottom) for avenues
+   Current condition (top) and proposed bicycle highway (bottom) for collectors
 
 
 Local street green corners
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Local streets are mostely wide, count with speed bumps every blocks and street parking.
-There is a lot of space at the corners, which could be used to make green corners and place street furniture.
+There is a lot of space at the corners, which could be used to make green corners and place street furniture, to make them more attractive for walkers and increase activity.
 
 .. figure:: images/IMG_20190526_183625-local-street-corners.jpg
    :width: 75%
