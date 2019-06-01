@@ -202,8 +202,8 @@ They arrived in Buenos Aires in March this year (LN2019_, 2019), but have not be
 Sidewalks end at every block and are mostly narrow and in many places broken. Not all corners count with curb ramps. So it's questionable, if scooters will be successful in Olivos, respectively in Buenos Aires in general.
 
 
-Public transport
-----------------
+Transit
+-------
 
 Olivos Roche counts with one railway line, a BRT line, express bus lines and several local bus lines:
 
@@ -368,7 +368,7 @@ All buslines (common & express) have frequencies between 6 and one services per 
 Fares
 ~~~~~
 
-In general, public transport is cheap in Buenos Aires, compared to other services. Prices raise stagged by the distance, but the first stage is quite long. Currently (26/05/19) the prices for the first stage are as follows:
+In general, transit is cheap in Buenos Aires, compared to other services. Prices raise stagged by the distance, but the first stage is quite long. Currently (26/05/19) the prices for the first stage are as follows:
 
 .. list-table::   
    :header-rows: 1
@@ -511,8 +511,8 @@ As scooters did not yet arrive to Olivos, there aren't yet experiences with them
 It can be assumed, most critiques for walking and cycling also apply for scooters.
 
 
-Public transport
-----------------
+Transit
+-------
 
 .. list-table::
    :header-rows: 1
@@ -532,7 +532,7 @@ Public transport
        * Crowded in peek hours
        * Frequencies drop in the evening
 
-The public transport offer is good in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
+The transit offer is good in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
 
 The unreliable frequencies make it complicated to plan a multi modal trip and people need to plan with sufficient margen, what makes it unattractive, in comparison to car or TNC trips.
 
@@ -618,7 +618,7 @@ As only a few stops have shelters, moving them is a small investment.
 Road maintenance prioritization for transit corridors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Prioritizing road maintenance for roads with public transport lines, could make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
+Prioritizing road maintenance for roads with transit lines, could make rides more comfortable and reduce the maintenance cost on the vehicles, caused by bumpy roads and loose pavement parts.
 
 
 Prioritized traffic lights
