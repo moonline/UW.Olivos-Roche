@@ -492,11 +492,12 @@ Cycling
           :width: 0.75cm
           :target: RI2019_
    * - * Local streets allow safe cycling
-       * Bicycle rack on the train
+       * Bicycle racks at shops
+       * Bicycle racks on the train
      - * Dangerous speed humps
        * Cycling on collectors and in the night is dangerous
-       * At-grade sewer canals
-       * No bicycle lanes/paths or parkings
+       * At-grade sewer
+       * No bicycle lanes/paths or parking spaces
        * No monitored bicycle stations
 
 The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. The only existing bicycle infrastructure are the bicycle racks on the train.
@@ -526,13 +527,15 @@ Transit
    * - * Railway, express bus and BRT lines
        * Extensive local bus network
        * High frequencies during the day
+       * Railway & BRT accessibility (at-grade)
+       * Cheap fares
      - * Buses and BRT lines have frequencies, no fixed schedules
-       * Bus stops are not well maintained
+       * Local bus stops are not well maintained
        * Only a few bus stops count with shelter or lighting
-       * Crowded in peek hours
+       * Crowded in rush hours
        * Frequencies drop in the evening
 
-The transit offer is good in Olivos Roche, services are available up to late hours in the evening. But in peek hours, trains and buses are crowded.
+The transit offer is good in Olivos Roche, services are available up to late hours in the evening. But in rush hours, trains and buses are crowded.
 
 The unreliable frequencies make it complicated to plan a multi modal trip and people need to plan with sufficient margen, what makes it unattractive, in comparison to car or TNC trips.
 
@@ -686,7 +689,7 @@ Street furniture could increase the activity on the streets and raise safety. Th
 On-street bicycle parking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
+Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parking spaces and equipt with the necessary stands.
 
 .. figure:: http://periodismodelmedio.com.ar/wp-content/uploads/2015/09/IMG_3013-copia-e1441509604177.jpg
    :width: 50%
@@ -695,12 +698,12 @@ Other places in Olivos already count with explicit motorcycle and bicycle parkin
 
 The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
 
-Places, where bicycle parkings make sense:
+Places, where bicycle parking spaces make sense:
 
 .. figure:: images/maps/olivos-roche-bicycle-parkings-map.jpg
    :width: 75%
 
-   Corners with commercial activities, where bicycle parkings made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
+   Corners with commercial activities, where bicycle parking spaces made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Bus bicycle racks
@@ -729,14 +732,14 @@ Projects that require long term funds and planning and are costly to implement, 
 Transit centers
 ~~~~~~~~~~~~~~~
 
-Creating transit centers with shops, services and monitored bicycle parkings could provide people everything for their daily needs and make that places more attractive and safer.
+Creating transit centers with shops, services and monitored bicycle parking spaces could provide people everything for their daily needs and make that places more attractive and safer.
 
 Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
 
 .. figure:: images/maps/transit-centers-map.jpg
    :width: 75%
 
-   Recommended places for transit centers with monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
+   Recommended places for transit centers with monitored bicycle parking spaces: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Rail extension
