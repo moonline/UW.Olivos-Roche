@@ -30,9 +30,6 @@
    :width: 100%
    :align: center
 
-.. IMG_20190518_173202-furnier.jpg
-.. https://www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3   
-
 
 .. raw:: pdf
 
@@ -689,7 +686,12 @@ Street furniture could increase the activity on the streets and raise safety. Th
 On-street bicycle parking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
+Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas (PDM2015_, 2015). Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
+
+.. figure:: http://periodismodelmedio.com.ar/wp-content/uploads/2015/09/IMG_3013-copia-e1441509604177.jpg
+   :width: 50%
+
+   Motorcycle parking in Gobernador Manuel Ugarte St. / Hilaron de la Quintana St. 
 
 The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
 
@@ -792,7 +794,7 @@ There is a lot of space at the corners, which could be used to make green corner
 .. [PN2018] Perfil Newspaper. (2018, November 11). Devaluación: el salario en Argentina ya es más bajo que en Brasil y Chile. Retrieved May 26, 2019 `www.perfil.com/noticias/economia/ devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml <from https://www.perfil.com/noticias/economia/devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml>`_
 .. [GPD2018] Google Public Data. (2018, July 6). Retrieved May 26, 2019 from `www.google.com/publicdata/explore? ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE <https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE>`_
 .. [GM2019] Google Maps. (2019). Retrieved May 21, 2019 from `www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3 <https://www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3>`_
-
+.. [PDM2015] Periodismo del Medio. (2015, September 6). Mejoras en el Centro Comercial de la calle Ugarte en Vicente López. Retrieved June 1, 2019 from `periodismodelmedio.com.ar/?p=6151 <http://periodismodelmedio.com.ar/?p=6151>`_
 
 
 .. http://docutils.sourceforge.net/docs/ref/rst/directives.html
