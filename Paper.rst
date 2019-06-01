@@ -71,12 +71,12 @@ It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernad
 .. list-table::
    :class: table-borderless
 
-   * - .. figure:: maps/map-south-america-2.jpg
+   * - .. figure:: images/maps/map-south-america-2.jpg
           :width: 100%
 
           Autonomous City Buenos Aires, Capital of Argentina, South America (OSM2019_, 2019, `1224652 <https://www.openstreetmap.org/relation/1224652#map=3/-35.96/-30.85>`_)
 
-     - .. figure:: maps/map-buenos-aires-2.jpg
+     - .. figure:: images/maps/map-buenos-aires-2.jpg
           :width: 100%
 
           Vicente Lopez, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427,-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
@@ -84,7 +84,7 @@ It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernad
           .. openstreetmap.org/relation/1224657
 
 
-.. figure:: maps/map-olivos-roche.jpg
+.. figure:: images/maps/map-olivos-roche.jpg
    :width: 100%
 
    Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OSM2019_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
@@ -144,7 +144,7 @@ All streets have street lighting and tree rows. In general, the streets are well
      - .. figure:: images/IMG_20190507_201029-2.jpg
           :width: 100%
 
-          Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the avenue Maipú.
+          Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the Maipú Avenue.
 
 
 There is not much activity on most of the streets at early and late hours, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
@@ -207,7 +207,7 @@ Transit
 
 Olivos Roche counts with one railway line, a BRT line, express bus lines and several local bus lines:
 
-.. figure:: maps/map-transit-lines.jpg
+.. figure:: images/maps/map-transit-lines.jpg
    :width: 100%
 
    Metrobus Norte (BRT line north), Mitre commuter rail and Panamericana express buses (OSM2019_, 2019, `-34.5159,-58.5107 <https://www.openstreetmap.org/#map=14/-34.5159/-58.5107&layers=T>`_)
@@ -234,7 +234,7 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
    * - Gobernador Manuel Ugarte St.
      - Carlos Villate St.
      - Antonio Malaver St.
-   * - * lines 333 and 434 from Panamericana in direction of Avenue Maipu
+   * - * lines 333 and 434 from Panamericana in direction of Maipú Avenue
      - * lines 333 and 434 from Maipu in direction of Panamericana
        * line 184 from station Dr. Cetrangolo / south-east in direction Panamericana
      - * line 184 from Panamericana in direction station Dr. Cetrangolo / south-east
@@ -277,10 +277,10 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
 Regional transit
 ~~~~~~~~~~~~~~~~
 
-Mitre Rail
-..........
+Mitre Railway
+.............
 
-The commuter rail Mitre connects the station Bartolomé Mitre with the main station Retiro in the city center. Close to Olivos Roche it also stops at the station Dr. Cetrangolo.
+The Mitre commuter railway connects the station Bartolomé Mitre with the main station Retiro in the city center. Close to Olivos Roche it also stops at the station Dr. Cetrangolo.
 At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Terminal station of the Tren de la costa on the other side of the road, which takes passengers to Tigre in the north of Greater Buenos Aires.
 
 .. list-table::
@@ -454,7 +454,7 @@ Walking
           :target: RI2019_
    * - * Extensive sidewalk network
        * Grid system, short access
-       * Curb ramps on avenues
+       * Curb ramps on collectors
        * Well lighting
        * Green spaces (trees and grassed areas)
      - * Broken(not maintained sidewalks
@@ -494,7 +494,7 @@ Cycling
    * - * Local streets allow safe cycling
        * Bicycle rack on the train
      - * Dangerous speed humps
-       * Cycling on avenues and in the night is dangerous
+       * Cycling on collectors and in the night is dangerous
        * At-grade sewer canals
        * No bicycle lanes/paths or parkings
        * No monitored bicycle stations
@@ -657,7 +657,7 @@ Adjusting corners, where buses are turning, could increase the turning speed and
 
 This could also enhance the crossing safety for other modes like bicycles or pedestrians.
 
-.. figure:: maps/corner-enhancements-map.jpg
+.. figure:: images/maps/corner-enhancements-map.jpg
    :width: 75%
    
    Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St. (OSM2019_, 2019, `−34.5228,-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
@@ -686,18 +686,18 @@ Street furniture could increase the activity on the streets and raise safety. Th
 On-street bicycle parking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas (PDM2015_, 2015). Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
+Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parkings and equipt with the necessary stands.
 
 .. figure:: http://periodismodelmedio.com.ar/wp-content/uploads/2015/09/IMG_3013-copia-e1441509604177.jpg
    :width: 50%
 
-   Motorcycle parking in Gobernador Manuel Ugarte St. / Hilaron de la Quintana St. 
+   Motorcycle parking in Gobernador Manuel Ugarte St. / Hilaron de la Quintana St. (PDM2015_, 2015)
 
 The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
 
 Places, where bicycle parkings make sense:
 
-.. figure:: maps/olivos-roche-bicycle-parkings-map.jpg
+.. figure:: images/maps/olivos-roche-bicycle-parkings-map.jpg
    :width: 75%
 
    Corners with commercial activities, where bicycle parkings made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
@@ -733,7 +733,7 @@ Creating transit centers with shops, services and monitored bicycle parkings cou
 
 Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
 
-.. figure:: maps/transit-centers-map.jpg
+.. figure:: images/maps/transit-centers-map.jpg
    :width: 75%
 
    Recommended places for transit centers with monitored bicycle parkings: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
