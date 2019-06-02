@@ -64,7 +64,7 @@ Olivos Roche
 
 
 
-Olivos Roche is an inofficial district of Olivos, part of the community Vicente Lopez, Greater Buenos Aires.
+Olivos Roche is an inofficial district of Olivos, part of the community Vicente López, Greater Buenos Aires.
 It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernador Manuel Ugarte, the collector Antonio Malaver and Chacabuco St.
 
 
@@ -79,7 +79,7 @@ It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernad
      - .. figure:: images/maps/map-buenos-aires-2.jpg
           :width: 100%
 
-          Vicente Lopez, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427,-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
+          Vicente López, Greater Buenos Aires, Argentina (OSM2019_, 2019, `-34.7427,-58.5201 <https://www.openstreetmap.org/#map=9/-34.7427/-58.5201>`_)
           
           .. openstreetmap.org/relation/1224657
 
@@ -87,9 +87,9 @@ It is bounded by the highway Panamericana (Acceso Norte), the collector Gobernad
 .. figure:: images/maps/map-olivos-roche.jpg
    :width: 100%
 
-   Olivos Roche, part of Olivos, district of Vicente Lopez, Greater Buenos Aires (OSM2019_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
+   Olivos Roche, part of Olivos, district of Vicente López, Greater Buenos Aires (OSM2019_, 2019, `1270158 <https://www.openstreetmap.org/relation/1270158>`_)
 
-Olivos Roche has a size of around 100 blocks and almost 10'000 inhabitants. It's density is around 90 people per hectare.
+Olivos Roche has a size of around 100 blocks and almost 9'000 inhabitants. It's density is around 90 people per hectare.
 
 
 .. raw:: pdf
@@ -135,16 +135,16 @@ All streets have street lighting and tree rows. In general, the streets are well
 .. list-table::
    :class: table-borderless
 
-   * - .. figure:: images/IMG_20190507_201004-2.jpg
+   * - .. figure:: images/IMG_20190524_185908-night-malaver-ayacucho.jpg
           :width: 100%
 
-          Street lighting at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of Panamericana.
+          Street lighting at the corner Antonio Malaver St. / Ayacucho St., looking in direction of Maipú Avenue.
 
 
-     - .. figure:: images/IMG_20190507_201029-2.jpg
+     - .. figure:: images/IMG_20190507_201029-night-malaver-warnes.jpg
           :width: 100%
 
-          Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of the Maipú Avenue.
+          Sidewalk behind tree row at the corner Antonio Malaver St. / Ignacio Warnes St., looking in direction of Maipú Avenue.
 
 
 There is not much activity on most of the streets at early and late hours, as there are not so many shops and most of them are concentrated around Carlos Villate and Gobernador Manuel Ugarte.
@@ -184,6 +184,11 @@ Some collectors do not have sufficient wide lanes (e.g. 1 lane + 0.75 lane + 0.7
 
 Local streets on the other side, count with speed bumps every two blocks, are crossed by at-grade sewer and are interrupted at some places by the railway line or the Panamericana highway.
 In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
+
+.. figure:: images/IMG_20190518_173202-furnier-warnes.jpg
+   :width: 80%
+
+   Typical local street in Olivos Roche (Rastreador Fournier St. / Ignacio Warnes St.)
 
 In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted on low activity streets.
 
@@ -243,7 +248,7 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
 .. list-table::
    :class: table-borderless
 
-   * - .. figure:: images/IMG_20190505_140108.jpg
+   * - .. figure:: images/IMG_20190505_140108-bus-stop-malaver-valle-grande.jpg
           :width: 100%
 
           Bus line 184 stopping at Antonio Malaver St. / Valle Grande St.
@@ -312,14 +317,17 @@ There are several express lines on the Panamericana highway, which do not stop a
 
    * - Common bus lines
      - Express bus lines (stop only in Ugarte)
-   * - * 365
-       * 203
-       * 130
-       * 71
-       * 60
-       * 57
-       * 21
-       * 15
+   * - .. list-table::
+          :class: table-seamless
+          
+          * - * 365
+              * 203
+              * 130
+              * 71
+            - * 60
+              * 57
+              * 21
+              * 15
      - * 194
        * 60 semi rápido
        * 21 semi rápido
@@ -457,10 +465,8 @@ Walking
        * Curb ramps on collectors
        * Well lighting
        * Green spaces (trees and grassed areas)
-     - * Broken(not maintained sidewalks
-       * Littered sidewalks
+     - * Broken/littered/dark sidewalk section
        * Missing curb ramps on local streets
-       * Dark sidewalk sections
        * Few activity on the streets in the evening
        * No benches/street furniture to rest and stay
 
@@ -472,7 +478,7 @@ Walking with heavy or huge bags, buggy or caddy may be complicated, due to missi
 During the day people feel safe and walk much. In the night, dark sidewalks sections and not maintained or littered sidewalks, make people feel unsafe at some places. Missing activites on many roads contribute to that sense.
 
 .. figure:: images/Alfonzo-2005-Hierarchy-of-walking-needs.jpg
-   :width: 75%
+   :width: 60%
 
    Hierarchy of Walking needs within a Social-Ecological Framework (AM2005_, 2005, p. 820)
 
@@ -494,11 +500,9 @@ Cycling
    * - * Local streets allow safe cycling
        * Bicycle racks at shops
        * Bicycle racks on the train
-     - * Dangerous speed humps
+     - * Dangerous speed humps & at-grade sewer
        * Cycling on collectors and in the night is dangerous
-       * At-grade sewer
-       * No bicycle lanes/paths or parking spaces
-       * No monitored bicycle stations
+       * No bicycle lanes/paths, parking spaces or monitored bicycle stations
 
 The bicycle infrastructure in Olivos, Roche does clearly not satisfy the cyclists needs. The only existing bicycle infrastructure are the bicycle racks on the train.
 
@@ -691,19 +695,20 @@ On-street bicycle parking
 
 Other places in Olivos already count with explicit motorcycle and bicycle parking in commercial areas. Most of them are former street-parking-places, converted into cycle parking spaces and equipt with the necessary stands.
 
-.. figure:: http://periodismodelmedio.com.ar/wp-content/uploads/2015/09/IMG_3013-copia-e1441509604177.jpg
-   :width: 50%
+.. list-table::
+   :class: table-borderless
 
-   Motorcycle parking in Gobernador Manuel Ugarte St. / Hilaron de la Quintana St. (PDM2015_, 2015)
+   * - .. figure:: http://periodismodelmedio.com.ar/wp-content/uploads/2015/09/IMG_3013-copia-e1441509604177.jpg
+          :width: 100%
+
+          Motorcycle parking in Gobernador Manuel Ugarte St. / Hilaron de la Quintana St. (PDM2015_, 2015)
+          
+     - .. figure:: images/maps/olivos-roche-bicycle-parkings-map.jpg
+          :width: 100%
+
+          Corners with commercial activities, where bicycle parking spaces made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 The same concept could make it more attractive, to go shopping by bicycle in Olivos Roche.
-
-Places, where bicycle parking spaces make sense:
-
-.. figure:: images/maps/olivos-roche-bicycle-parkings-map.jpg
-   :width: 75%
-
-   Corners with commercial activities, where bicycle parking spaces made sense (OSM2019_, 2019, `-34.5228/-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Bus bicycle racks
@@ -761,7 +766,7 @@ Separated Bicycle lanes
 Physically separated bicycle lanes or bidirectional bicycle highways could provide a high quality infrastructure to cyclists and make cycling much more attractive.
 
 The collectors in Olivos Roche count currently with 1.75 driving and 0.75 parking lane. Often, it's not possible that two cars drive beside each others, so the real capacity of the road is around one lane.
-This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity.
+This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity. Parking should be payed, not free.
 
 .. figure:: images/IMG_20190526_183612-bicycle-highway.jpg
    :width: 75%
@@ -796,7 +801,7 @@ There is a lot of space at the corners, which could be used to make green corner
 .. [CF2017] Cronica Ferroviaria. (2017, May 19). Una solución ferroviaria para la autopista Panamericana. Retrieved May 26, 2019 from `wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html <http://wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html>`_
 .. [PN2018] Perfil Newspaper. (2018, November 11). Devaluación: el salario en Argentina ya es más bajo que en Brasil y Chile. Retrieved May 26, 2019 `www.perfil.com/noticias/economia/ devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml <from https://www.perfil.com/noticias/economia/devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml>`_
 .. [GPD2018] Google Public Data. (2018, July 6). Retrieved May 26, 2019 from `www.google.com/publicdata/explore? ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE <https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE>`_
-.. [GM2019] Google Maps. (2019). Retrieved May 21, 2019 from `www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3 <https://www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3>`_
+.. [GM2019] Google Maps. (2019). Retrieved May 21, 2019 from `www.google.com/maps/ @-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3 <https://www.google.com/maps/@-34.5391168,-58.4981871,819a,35y,349.72h,65.83t/data=!3m1!1e3>`_
 .. [PDM2015] Periodismo del Medio. (2015, September 6). Mejoras en el Centro Comercial de la calle Ugarte en Vicente López. Retrieved June 1, 2019 from `periodismodelmedio.com.ar/?p=6151 <http://periodismodelmedio.com.ar/?p=6151>`_
 
 

@@ -17,6 +17,16 @@
 				["INNERGRID", [ 0, 0 ], [ 0, 0 ], 0, "black" ]
 			]
 		},
+		"table-seamless": {
+			"commands": [
+				["INNERGRID", [ 0, 0 ], [ -1, -1 ], 0, "transparent" ],
+				["LEFTPADDING", [ 0, 0 ], [ -1, -1 ], 0 ],
+				["RIGHTPADDING", [ 0, 0 ], [ -1, -1 ], 0 ],
+				["TOPPADDING", [ 0, 0 ], [ -1, -1 ], -5 ],
+				["BOTTOMPADDING", [ 0, 0 ], [ -1, -1 ], 0 ],
+				["VALIGN", [ 0, 0 ], [ -1, -1 ], "TOP" ]
+			]
+		},
 		"document-title": {
 			"fontSize": 40,
 			"alignment": "center",
