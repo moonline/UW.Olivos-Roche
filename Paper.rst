@@ -112,10 +112,10 @@ Pedestrian crossings on collectors mostely count with curb ramps, some corners o
 
           Well maintained sidewalk at Virrey Olaguer y Feliú St. / Cerro de Pasco St.
 
-     - .. figure:: images/IMG_20190508_085407.jpg
+     - .. figure:: images/IMG_20190602_170014-not-maintained-sidewalk.jpg
           :width: 100%
 
-          Not maintained sidewalk at General José María Paz St. / Antonio Malaver St.
+          Not maintained sidewalk at Virrey Olaguer y Feliú St. / Fray Justo Sarmiento St.
 
    * - .. figure:: images/IMG_20190516_084528-2.jpg
           :width: 100%
@@ -186,9 +186,9 @@ Local streets on the other side, count with speed bumps every two blocks, are cr
 In the last years installed speed humps are quite dangerous for bicycles, as they need to be crossed diagonal.
 
 .. figure:: images/IMG_20190518_173202-furnier-warnes.jpg
-   :width: 80%
+   :width: 90%
 
-   Typical local street in Olivos Roche (Rastreador Fournier St. / Ignacio Warnes St.)
+   A typical local street in Olivos Roche (Rastreador Fournier St. / Ignacio Warnes St.)
 
 In the morning or evening, bicycling may also be a security problem, as it happens from time to time, that bicyclists are assaulted on low activity streets.
 
@@ -266,7 +266,7 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
      - .. figure:: images/IMG_20190517_192749-2.jpg
           :width: 100%
 
-          Bus shelter at night at Antonio Malaver St. / Fray Justo Sarmiento St.
+          Bus stop at night at Antonio Malaver St. / Fray Justo Sarmiento St.
 
    * - .. figure:: images/bus-stop-equipment.jpg
           :width: 100%
@@ -301,8 +301,7 @@ At the terminal station Bartolomé Mitre, a pedestrian bridge connects to the Te
 
           Mitre commuter rail train interier
 
-* Type: CSR (Unidad eléctrica múltiple CSR), 132m longitud
-* Frequencies: 2 Trains per hour, ~30 services / day and direction
+* Schedules: 2 Trains per hour, ~30 services per day and direction
 * Capacity: 408 seats
 * Accessibility: At-grade
 
@@ -335,6 +334,11 @@ There are several express lines on the Panamericana highway, which do not stop a
 
 ..
    https://www.xcolectivo.com.ar/colectivo/recorridos.php?linea=60
+
+
+.. raw:: pdf
+
+   PageBreak
 
 
 BRT
@@ -371,6 +375,11 @@ Frequencies
 ~~~~~~~~~~~
 
 All buslines (common & express) have frequencies between 12 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
+
+
+.. raw:: pdf
+
+   PageBreak
 
 
 Fares
@@ -665,7 +674,7 @@ Adjusting corners, where buses are turning, could increase the turning speed and
 This could also enhance the crossing safety for other modes like bicycles or pedestrians.
 
 .. figure:: images/maps/corner-enhancements-map.jpg
-   :width: 75%
+   :width: 60%
    
    Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St. (OSM2019_, 2019, `−34.5228,-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
@@ -742,22 +751,9 @@ Creating transit centers with shops, services and monitored bicycle parking spac
 Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
 
 .. figure:: images/maps/transit-centers-map.jpg
-   :width: 75%
+   :width: 60%
 
    Recommended places for transit centers with monitored bicycle parking spaces: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
-
-
-Rail extension
-~~~~~~~~~~~~~~
-
-The panamericana highway counts with high bus frequencies and rider volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
-
-The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CF2017_, 2017) published such a concept two years ago:
-
-.. figure:: https://4.bp.blogspot.com/-BBrtYchmY4A/WR9UTfyXn_I/AAAAAAABDKk/LdDMERBc3i854CCger3a5EKiUG_qsyDOACLcB/s1600/6b52bbcd-1ec1-444f-a1e3-2ada75c7980a-original.jpeg
-   :width: 50%
-
-   Elevated railway concept for the Panamericana highway (CF2017_, 2017)
 
 
 Separated Bicycle lanes
@@ -768,8 +764,8 @@ Physically separated bicycle lanes or bidirectional bicycle highways could provi
 The collectors in Olivos Roche count currently with 1.75 driving and 0.75 parking lane. Often, it's not possible that two cars drive beside each others, so the real capacity of the road is around one lane.
 This configuration could be changed to one driving lane, a parking/bus-stop/load-zone lane and a bicycle highway, without loosing much capacity. Parking should be payed, not free.
 
-.. figure:: images/IMG_20190526_183612-bicycle-highway.jpg
-   :width: 75%
+.. figure:: images/IMG_20190526_183612-bicycle-highway-2.jpg
+   :width: 100%
 
    Current condition (top) and proposed bicycle highway (bottom) for collectors
 
@@ -781,9 +777,22 @@ Local streets are mostely wide, count with speed bumps every blocks and street p
 There is a lot of space at the corners, which could be used to make green corners and place street furniture, to make them more attractive for walkers and increase activity.
 
 .. figure:: images/IMG_20190526_183625-local-street-corners.jpg
-   :width: 75%
+   :width: 50%
 
    Current condition (left) and proposed green corners (right)
+
+
+Rail extension
+~~~~~~~~~~~~~~
+
+The panamericana highway counts with high bus frequencies and rider volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
+
+The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CF2017_, 2017) published such a concept two years ago:
+
+.. figure:: https://4.bp.blogspot.com/-BBrtYchmY4A/WR9UTfyXn_I/AAAAAAABDKk/LdDMERBc3i854CCger3a5EKiUG_qsyDOACLcB/s1600/6b52bbcd-1ec1-444f-a1e3-2ada75c7980a-original.jpeg
+   :width: 40%
+
+   Elevated railway concept for the Panamericana highway (CF2017_, 2017)
 
 
 .. raw:: pdf

@@ -5,3 +5,4 @@ Draft.md
 **/*.odg
 raw
 .vscode
+/presentation
