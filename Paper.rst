@@ -1,9 +1,11 @@
-.. header:: Travel modes in Olivos Roche
+.. header:: Olivos Roche | Travel modes for disadvantaged people
 
 .. footer:: Page ###Page### / ###Total###
 
 .. section-numbering::
    :depth: 3
+
+.. |date| date::
 
 
 .. image:: images/Olivos-Roche-google-maps-3.jpg
@@ -23,7 +25,7 @@
 
 .. class:: document-author
    
-   Tobias Blaser
+   Tobias Blaser | |date|
 
 
 .. image:: images/cover.jpg
@@ -225,7 +227,7 @@ Bus
 ...
 
 The common bus lines are mostly driving on the collectors, some also pass through local streets.
-Stops are marked with a sign at a close tree or light pole. Some stops have garbage bins or shelters.
+Stops are marked with a sign at a close tree or light pole. Some stops have garbage cans or shelters.
 
 Almost no stop has lighting or lighted advertisement panels. But some stops are well lighted by street lamps.
 Also the stops do not count with any information about the route or the service frequencies.
@@ -239,8 +241,8 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
    * - Gobernador Manuel Ugarte St.
      - Carlos Villate St.
      - Antonio Malaver St.
-   * - * lines 333 and 434 from Panamericana in direction of Maipú Avenue
-     - * lines 333 and 434 from Maipu in direction of Panamericana
+   * - * lines 333 and 434 from Panamericana in direction of Maipú Ave.
+     - * lines 333 and 434 from Maipú Ave. in direction of Panamericana
        * line 184 from station Dr. Cetrangolo / south-east in direction Panamericana
      - * line 184 from Panamericana in direction station Dr. Cetrangolo / south-east
 
@@ -276,7 +278,7 @@ Buses often stop far away from the curb, entering with caddy or huge bags is com
      - .. figure:: images/IMG_20190516_084953-poor-bus-stop.jpg
           :width: 100%
 
-          Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage bin, minimal stop sign)
+          Poor bus stop at Antonio Malaver St. / Juan B. Justo St. (Plattform not paved, no shelter, grafity at the wall, no garbage can, minimal stop sign)
 
 
 Regional transit
@@ -344,7 +346,7 @@ There are several express lines on the Panamericana highway, which do not stop a
 BRT
 ...
 
-On Maipu Avenue, there is a Metrobus line (BRT lime), beginning at the corner Malaver/Maipu, heading to the city center of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
+On Maipú Avenue, there is a Metrobus line (BRT line), beginning at the corner Antonio Malaver St. / Maipú Ave., heading to the city center of Buenos Aires). Several bus lines serve them (152, 19, 203, 21, 59, 168, 71).
 
 
 .. list-table::
@@ -355,15 +357,15 @@ On Maipu Avenue, there is a Metrobus line (BRT lime), beginning at the corner Ma
 
           Panamericana Highway bus stop (Panamericana / Antonio Malaver)
 
-     - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
-          :width: 100%
-
-          Bus 152 arriving at the Metrobus stop Deheza (BAC2019_, 2019)
-
-   * - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_1551.jpg
+     - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_1551.jpg
           :width: 100%
 
           Metrobus at-grade boarding (BAC2019_, 2019)
+
+   * - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2051.jpg?itok=XoeMO1cm
+          :width: 100%
+
+          Bus 152 arriving at the Metrobus stop Deheza (BAC2019_, 2019)
 
      - .. figure:: https://www.buenosaires.gob.ar/sites/gcaba/files/styles/interna_pagina/public/_mg_2045.jpg
           :width: 100%
@@ -374,7 +376,7 @@ On Maipu Avenue, there is a Metrobus line (BRT lime), beginning at the corner Ma
 Frequencies
 ~~~~~~~~~~~
 
-All buslines (common & express) have frequencies between 12 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
+All bus lines (common & express) have frequencies between 10 and one services per hour. Frequently, buses get delayed by rail barriers, congestion or amiss parked cars. So it may happen, that people need to wait 20 minutes and then two buses arrive in tandem.
 
 
 .. raw:: pdf
@@ -406,7 +408,7 @@ In general, transit is cheap in Buenos Aires, compared to other services. Prices
      - $31.5
      - U$S 0.70
      
-The median income in Argentina was ARS $16'293 per month (~USD $468.-) for the first term 2018 (PN2018_, 2018), what is about 10% of the median income for the United States and 9% for Switzerland (GPD2018_, 2018) at the same time. Compared to Switzerland, the fares in Buenos Aires are still more then 50% cheaper, in relation to the median  salary.
+The average income in Argentina was ARS $16'293 per month (~USD U$S 468) for the first term 2018 (PN2018_, 2018), what is about 10% of the average income for the United States and 9% for Switzerland (GPD2018_, 2018) at the same time. Compared to Switzerland, the fares in Buenos Aires are still more then 50% cheaper, in relation to the average  salary.
 
 
 
@@ -491,7 +493,7 @@ During the day people feel safe and walk much. In the night, dark sidewalks sect
 
    Hierarchy of Walking needs within a Social-Ecological Framework (AM2005_, 2005, p. 820)
 
-Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs accessibility and safety are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable walking. 
+Looking Alfonzos Walking needs classification (Alfozo, 2005), we can say, the basic needs "accessibility" and "safety" are satisfied at a high level in Olivos Roche, but there is room for improvement for comfortable and pleasurable walking. 
 
 
 Cycling
@@ -544,13 +546,13 @@ Transit
        * Cheap fares
      - * Buses and BRT lines have frequencies, no fixed schedules
        * Local bus stops are not well maintained
-       * Only a few bus stops count with shelter or lighting
+       * Only a few bus stops count with shelters or lighting
        * Crowded in rush hours
        * Frequencies drop in the evening
 
 The transit offer is good in Olivos Roche, services are available up to late hours in the evening. But in rush hours, trains and buses are crowded.
 
-The unreliable frequencies make it complicated to plan a multi modal trip and people need to plan with sufficient margen, what makes it unattractive, in comparison to car or TNC trips.
+The unreliable frequencies make it complicated to plan multi modal trips and people need to plan with sufficient margen, what makes it unattractive, in comparison to car or TNC trips.
 
 As the fares are cheap, for many poor people it's the only way to travel, as they can not afford any motorized vehicle.
 
@@ -571,8 +573,9 @@ Taxi, Radio Taxi, Uber and Cabify
        * The only solution to get to some places without a car and the only available transportation mode in the night
      - * Trust in drivers is not always given
        * Do not drive to all places (e.g. Slums)
+       * Too expensive for poor people
 
-Taxi and TNC services are highly available service in Olivos Roche, but the drivers do not always give the best impressions and its much more expensive than transit. 
+Taxi and TNC services are highly available in Olivos Roche, but the drivers do not always give the best impressions and they are much more expensive than transit. For poor people they are too expensive.
 
 
 .. raw:: pdf
@@ -600,12 +603,12 @@ Projects with low cost but high impact, which could be implemented quickly.
 Traffic law enforcement
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-A significant enhancement of the sidewalk quality, walkability and traffic secutiry could be reached, enforcing already existing laws:
+A significant increase of sidewalk quality, walkability and traffic safety could be reached, enforcing already existing laws:
 
 * Forcing property owners to fix their sidewalks, to match standards and laws and maintain them appropiately (sidewalks are at the property owners responsibility).
 * Forcing the municipality to cut the trees regularly, to maintain a minimal clearance, to prevent trees from covering street lamps (Tree cutting is at the municipalities responsibility, even when the trees are planted by the property owner).
 * Stopping people from parking on the sidewalk, in driveways and in the second line, to allow pedestrians and bicycles to circulate without obstacles.
-* Applying traffic laws regarding speed, traffic lights and parking to increase traffic safety.
+* Applying traffic laws regarding speed, traffic lights and parking, to increase general safety.
 
 
 Transit schedules
@@ -613,7 +616,7 @@ Transit schedules
 
 A replacement of frequencies by fixed schedules for transit and implementing buffer times and early-turning-points for delayed services, could allow transit users to plan their trips and connections.
 
-Published schedules at the stops, in the vehicles itself and online, could give users easy access to them. Publiching them in common open-data formats under an open-data license could support plattforms and app-developers to integrate this information in their services.
+Published schedules at the stops, in the vehicles itself and online, could give users easy access to them. Publishing them in common open-data formats under an open-data license could support plattforms and app-developers to integrate this information in their services.
 
 
 Spaces for disadvantaged modes (lane marking only)
@@ -646,7 +649,7 @@ Replacing traffic lights, which need to be replaced anyway, by new traffic light
 More commercial activity
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Adjust regulations to ease the opening of cafes or small shops around transit stops, could increase the activities around these places, and make them safer. It also may help to reduce the amount of trips people do, as they can by stuff for their basic needs on their way home.
+Enhanced regulations could ease the opening of cafes or small shops around transit stops, increase the activities around these places, and make them safer. It also may help to reduce the amount of trips people do, as they can cover their basic shopping needs on their way home.
 
 
 
@@ -663,7 +666,7 @@ Medium cost projects
 Better transit stop lighting
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-An enhancement of the lighting at transit stop by installing proper lighting, additional street lamps or lighted advertisement panels, could increase the safety of bus stops and provide revenue from the advertisement panels. There exist already solar panel/battery sets which allow to power the installations with connecting them to an electric network.
+An enhancement of the lighting at transit stops, by installing proper lighting, additional street lamps or lighted advertisement panels, could increase the safety of bus stops and provide revenue from the advertisement panels. There exist already solar panel/battery sets which allow to power the installations with connecting them to an electric network.
 
 
 Corner enhancements for transit
@@ -674,7 +677,8 @@ Adjusting corners, where buses are turning, could increase the turning speed and
 This could also enhance the crossing safety for other modes like bicycles or pedestrians.
 
 .. figure:: images/maps/corner-enhancements-map.jpg
-   :width: 60%
+   :figwidth: 70%
+   :width: 85%
    
    Affected corners: España St. / Carlos Villate St. and Carlos Villate St. / Blas Parera St. (OSM2019_, 2019, `−34.5228,-58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
@@ -723,11 +727,11 @@ The same concept could make it more attractive, to go shopping by bicycle in Oli
 Bus bicycle racks
 ~~~~~~~~~~~~~~~~~
 
-Transport the bicycle on the bus, could allow people, to use their bicycle more extensive, as they could take the bus, when they feel unsafe in the evening, or are too tired to return cycling.
-In other countries, there are different systems used successfully: Front racks, rear racks or rack inside the bus, near the entrance.
+Transporting the bicycle on the bus, could allow people, to use their bicycle more extensive, as they could take the bus, when they feel unsafe in the evening, or are too tired to return cycling.
+In other countries, there are different systems used successfully: Front racks, rear racks or racks inside the bus, near the entrance.
 
 .. figure:: https://www.fahrradland-bw.de/uploads/tx_news/Fahrrad2g-2014-Eroeffnung-2.2.jpg
-   :width: 50%
+   :figwidth: 60%
 
    Fahrrad2go-Project in Winnenden, Germany, testing bicycle racks inside the bus (NVBW2014_, 2014) 
 
@@ -735,12 +739,12 @@ In other countries, there are different systems used successfully: Front racks, 
 High cost projects
 ------------------
 
-Projects that require long term funds and planning and are costly to implement, but which also would have a significant impact.
+Projects that require long term funding and planning and are costly to implement, but which also would have a significant impact.
 
 * Transit centers
-* Rail extension
 * Separated Bicycle lanes
 * Local street green corners
+* Rail extension
 
 
 Transit centers
@@ -748,12 +752,12 @@ Transit centers
 
 Creating transit centers with shops, services and monitored bicycle parking spaces could provide people everything for their daily needs and make that places more attractive and safer.
 
-Monitored bicycle would allow people to take the bicycle to transit, and park it safe.
+Monitored bicycle parking would allow people to take the bicycle to transit, and park it safe.
 
 .. figure:: images/maps/transit-centers-map.jpg
-   :width: 60%
+   :width: 70%
 
-   Recommended places for transit centers with monitored bicycle parking spaces: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and Carlos Villate St. / España St. (bus hotspot) (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
+   Recommended places for transit centers with monitored bicycle parking spaces: Dr. Cetrangolo train station, the Panamericana bus and express bus stops Gobernador Manuel Ugarte and Antonio Malaver and the bus hotspot Carlos Villate St. / España St. (OSM2019_, 2019, `-34.5228, -58.5008 <https://www.openstreetmap.org/#map=16/-34.5228/-58.5008&layers=C>`_)
 
 
 Separated Bicycle lanes
@@ -767,17 +771,17 @@ This configuration could be changed to one driving lane, a parking/bus-stop/load
 .. figure:: images/IMG_20190526_183612-bicycle-highway-2.jpg
    :width: 100%
 
-   Current condition (top) and proposed bicycle highway (bottom) for collectors
+   Current condition (left) and proposed bicycle highway (right) for collectors
 
 
 Local street green corners
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Local streets are mostely wide, count with speed bumps every blocks and street parking.
-There is a lot of space at the corners, which could be used to make green corners and place street furniture, to make them more attractive for walkers and increase activity.
+Local streets are mostely more than two lanes wide, count with speed bumps every second block and street parking.
+There is a lot of space at the corners, which could be used to create green corners and place street furniture, to make them more attractive for walkers and increase activity.
 
 .. figure:: images/IMG_20190526_183625-local-street-corners.jpg
-   :width: 50%
+   :width: 80%
 
    Current condition (left) and proposed green corners (right)
 
@@ -785,12 +789,12 @@ There is a lot of space at the corners, which could be used to make green corner
 Rail extension
 ~~~~~~~~~~~~~~
 
-The panamericana highway counts with high bus frequencies and rider volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
+The panamericana highway counts with high bus frequencies and ridership volumes. A railway (heavy rail extension or new light rail line) could provide a high quality transit option for all the districts along the highway.
 
 The idea, to create a railway along the Panamericana highway, is not new. The railway fanpage Cronica Ferroviaria (CF2017_, 2017) published such a concept two years ago:
 
 .. figure:: https://4.bp.blogspot.com/-BBrtYchmY4A/WR9UTfyXn_I/AAAAAAABDKk/LdDMERBc3i854CCger3a5EKiUG_qsyDOACLcB/s1600/6b52bbcd-1ec1-444f-a1e3-2ada75c7980a-original.jpeg
-   :width: 40%
+   :figwidth: 80%
 
    Elevated railway concept for the Panamericana highway (CF2017_, 2017)
 
@@ -806,7 +810,7 @@ The idea, to create a railway along the Panamericana highway, is not new. The ra
 .. [AM2005] Alfonzo, M.A. (2005). To Walk or Not to Walk? The Hierarchy of Walking Needs. Environment and Behavior, Vol. 37 No. 6, November 2005 808-836.
 .. [RI2019] Roundicons. (2019). Smile and sad face icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/roundicons <https://www.flaticon.com/authors/roundicons>`_
 .. [AHI2019] Alfredo Hernandez. (2019). Plus and negative icon. Licensed by `CC 3.0 BY <http://creativecommons.org/licenses/by/3.0/>`_. Retrieved May 25, 2019 from `https://www.flaticon.com/authors/alfredo-hernandez <https://www.flaticon.com/authors/alfredo-hernandez>`_
-.. [NVBW2014] Nahverkehrsgesellschaft Baden-Württemberg. (2014, August 13). Mit dem Fahrrad Bus fahren. Retrieved May 26, 2019 from `www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/ <https://www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/>`_
+.. [NVBW2014] Nahverkehrsgesellschaft Baden-Württemberg. (2014, August 13). Mit dem Fahrrad Bus fahren. Retrieved May 26, 2019 from `www.fahrradland-bw.de /news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/ <https://www.fahrradland-bw.de/news/news-detail/mit-dem-fahrrad-bus-fahren/vom/13/8/2014/>`_
 .. [CF2017] Cronica Ferroviaria. (2017, May 19). Una solución ferroviaria para la autopista Panamericana. Retrieved May 26, 2019 from `wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html <http://wwwcronicaferroviaria.blogspot.com/2017/05/una-solucion-ferroviaria-para-la.html>`_
 .. [PN2018] Perfil Newspaper. (2018, November 11). Devaluación: el salario en Argentina ya es más bajo que en Brasil y Chile. Retrieved May 26, 2019 `www.perfil.com/noticias/economia/ devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml <from https://www.perfil.com/noticias/economia/devaluacion-el-salario-en-argentina-ya-es-mas-bajo-que-en-brasil-y-chile.phtml>`_
 .. [GPD2018] Google Public Data. (2018, July 6). Retrieved May 26, 2019 from `www.google.com/publicdata/explore? ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE <https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gnp_pcap_pp_cd&idim=country:CHE:USA:SWE>`_
