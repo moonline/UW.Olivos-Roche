@@ -7,7 +7,8 @@ Transportation Choices for People with Transportation Disadvantages in Olivos Ro
 
 # Paper
 
-* Source (reStructuredText): [Olivos Roche | Travel modes](./Paper.rst)
+* Source (reStructuredText): [Paper.rst](./Paper.rst)
+* Paper & Presentation (PDF): [Releases](./releases)
 
 
 # Paper Summary
@@ -29,10 +30,8 @@ The paper focuses on the following transportation modes for non-drivers:
 * Walking
     * Walking without items
     * Walking carrying items or children
-    * Walking with disabilities
 * Cycling
 * Micro transit
-    * Scooter access
     * Scooter availability
 * Taxi/Uber
 
