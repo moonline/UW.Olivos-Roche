@@ -8,7 +8,7 @@ Transportation Choices for People with Transportation Disadvantages in Olivos Ro
 # Paper
 
 * Source (reStructuredText): [Paper.rst](./Paper.rst)
-* Paper & Presentation (PDF): [Releases](https://github.com/moonline/UW.Olivos-Roche)
+* Paper & Presentation (PDF): [Releases](https://github.com/moonline/UW.Olivos-Roche/releases)
 
 
 # Paper Summary
